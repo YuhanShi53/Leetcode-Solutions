@@ -60,70 +60,70 @@ This repository
 
 ### Backtracking
 
-- [Leetcode 216](./leetcode_216.py)
-- [Leetcode 980](./leetcode_980.py)
+- [Leetcode 216](solutions/leetcode_216.py)
+- [Leetcode 980](solutions/leetcode_980.py)
 
 ### Bit-Manipulation
 
-- [Leetcode 389](./leetcode_389.py)
+- [Leetcode 389](solutions/leetcode_389.py)
 
 ### Dynamic Processing
 
-- [Leetcode 121](./leetcode_121.py)
-- [Leetcode 139](./leetcode_139.py)
-- [Leetcode 152](./leetcode_152.py)
-- [Leetcode 198](./leetcode_198.py)
-- [Leetcode 983](./leetcode_983.py)
+- [Leetcode 121](solutions/leetcode_121.py)
+- [Leetcode 139](solutions/leetcode_139.py)
+- [Leetcode 152](solutions/leetcode_152.py)
+- [Leetcode 198](solutions/leetcode_198.py)
+- [Leetcode 983](solutions/leetcode_983.py)
 
 ### Greedy
 
-- [Leetcode 134](./leetcode_134.py)
-- [Leetcode 763](./leetcode_763.py)
+- [Leetcode 134](solutions/leetcode_134.py)
+- [Leetcode 763](solutions/leetcode_763.py)
 
 ### Hash
 
-- [Leetcode_389](./leetcode_389.py)
+- [Leetcode_389](solutions/leetcode_389.py)
 
 ### Mono Stack
 
-- [Leetcode 503](./leetcode_503.py)
-- [Leetcode 739](./leetcode_739.py)
+- [Leetcode 503](solutions/leetcode_503.py)
+- [Leetcode 739](solutions/leetcode_739.py)
 
 ### Union Find
 
-- [Leetcode 547](./leetcode_547.py)
-- [Leetcode 684](./leetcode_684.py)
+- [Leetcode 547](solutions/leetcode_547.py)
+- [Leetcode 684](solutions/leetcode_684.py)
 
 ### BFS
 
-- [Leetcode 994](./leetcode_994.py)
-- [Leetcode 1022](./leetcode_1022.py)
+- [Leetcode 994](solutions/leetcode_994.py)
+- [Leetcode 1022](solutions/leetcode_1022.py)
 
 ### DFS
 
-- [Leetcode 216](./leetcode_216.py)
-- [Leetcode 980](./leetcode_980.py)
+- [Leetcode 216](solutions/leetcode_216.py)
+- [Leetcode 980](solutions/leetcode_980.py)
 - [Leetcode 1206](solutions/leetcode_1206.py)
 
 ### Two Pointer
 
-- [Leetcode 763](./leetcode_763.py)
+- [Leetcode 763](solutions/leetcode_763.py)
 
 ### Tree
 
-- [Leetcode 1022](./leetcode_1022.py)
+- [Leetcode 1022](solutions/leetcode_1022.py)
 
 ### Interval
 
-- [Leetcode_57](./leetcode_57.py)
+- [Leetcode_57](solutions/leetcode_57.py)
 
 ### Kadane
 
-- [Leetcode 121](./leetcode_121.py)
+- [Leetcode 121](solutions/leetcode_121.py)
 
 ### Sort(Linked List)
 
-- [Leetcode 147](./leetcode_147.py)
+- [Leetcode 147](solutions/leetcode_147.py)
 
 ### Recursive
 
