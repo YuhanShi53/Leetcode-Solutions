@@ -128,3 +128,7 @@ This repository
 ### Recursive
 
 - [Leetcode 1206](solutions/leetcode_1206.py)
+
+### Math
+
+- [Leetcode 593](solutions/leetcode_593.py)

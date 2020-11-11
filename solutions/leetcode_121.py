@@ -2,8 +2,8 @@
 
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
-1. SM DFS & Kadane: Time: O(n) Space: O(1) (n is len_prices)
-2. DFS: Time: O(n) Space: O(1) (n is len_prices)
+1. SM DP & Kadane: Time: O(n) Space: O(1) (n is len_prices)
+2. DP: Time: O(n) Space: O(1) (n is len_prices)
 
 """
 
@@ -11,7 +11,7 @@ from typing import List
 
 
 class Solution1:
-    """ 1. SM DFS & Kadane """
+    """ 1. SM DP & Kadane """
 
     def max_profit(self, prices: List[int]) -> int:
         if len(prices) < 2:
@@ -26,7 +26,7 @@ class Solution1:
 
 
 class Solution2:
-    """ 2. DFS """
+    """ 2. DP """
 
     def max_profit(self, prices):
         if len(prices) < 2:
