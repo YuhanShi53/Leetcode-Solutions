@@ -55,6 +55,7 @@ This repository
 - leetcode_1291
 - leetcode_189
 - leetcode 310
+- leetcod_47
 
 ## Category
 
