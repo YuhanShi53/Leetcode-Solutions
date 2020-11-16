@@ -2,7 +2,7 @@
 
 https://leetcode.com/problems/sum-of-left-leaves/
 
-1. SM BFS: Time: O(n) Space: O(n) (n is num of nodes)
+1. MINE BFS: Time: O(n) Space: O(n) (n is num of nodes)
 
 """
 
@@ -10,7 +10,7 @@ from common import TreeNode
 
 
 class Solution1:
-    """ 1. SM BFS """
+    """ 1. MINE BFS """
 
     def sum_of_left_leaves(self, root: TreeNode) -> int:
         if not root:

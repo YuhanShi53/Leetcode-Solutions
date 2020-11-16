@@ -9,7 +9,7 @@ from typing import List
 
 
 class Solution1:
-    """ 1. SM """
+    """ 1. MINE """
 
     def largest_number(self, nums: List[int]) -> str:
         if sum(nums) == 0:

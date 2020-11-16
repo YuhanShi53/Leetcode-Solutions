@@ -7,7 +7,7 @@ https://leetcode.com/problems/power-of-four/
 
 
 class Solution1:
-    """ 1. SM Bit-Manipulation """
+    """ 1. MINE Bit-Manipulation """
 
     def is_power_four(self, num: int) -> bool:
         if num > 0 and num & (num - 1) == 0 and num & 0x55555555 != 0:

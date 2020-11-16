@@ -3,7 +3,7 @@
 https://leetcode.com/problems/teemo-attacking/
 
 
-1. SM Straight-Forward: Time: O(n) Space: O(1)
+1. MINE Straight-Forward: Time: O(n) Space: O(1)
 
 """
 
@@ -11,7 +11,7 @@ from typing import List
 
 
 class Solution1:
-    """ 1. SM Straight-Forward """
+    """ 1. MINE Straight-Forward """
 
     def find_poisoned_duration(
             self, timeSeries: List[int], duration: int) -> int:

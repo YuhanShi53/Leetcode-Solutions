@@ -2,7 +2,7 @@
 
 https://leetcode.com/problems/valid-square/
 
-1. SM-Math: Time: O(nlogn) Space: O(n) (n is num_of_vectors)
+1. MINE-Math: Time: O(nlogn) Space: O(n) (n is num_of_vectors)
 2. Math: Time: O(nlogn) Space: O(n) (n is num_of_vectors)
 
 """
@@ -11,7 +11,7 @@ from typing import List
 
 
 class Solution1:
-    """ 1. SM-Math """
+    """ 1. MINE-Math """
 
     def valid_square(self,
                      p1: List[int],

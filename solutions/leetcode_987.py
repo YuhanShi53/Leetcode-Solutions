@@ -12,7 +12,7 @@ from common import TreeNode
 
 
 class Solution1:
-    """ 1. SM """
+    """ 1. MINE """
 
     def vertical_travesal(self, root: TreeNode) -> List[List[int]]:
         traversal = defaultdict(dict)

@@ -2,7 +2,7 @@
 
 https://leetcode.com/problems/bulls-and-cows/
 
-1. SM Dict: Time: O(n) Space: O(n) (n is len_nums)
+1. MINE Dict: Time: O(n) Space: O(n) (n is len_nums)
 
 """
 
@@ -10,7 +10,7 @@ from collections import defaultdict
 
 
 class Solution1:
-    """ 1. SM Dict"""
+    """ 1. MINE Dict"""
 
     def get_hint(self, secret: str, guess: str) -> str:
         a_count = 0

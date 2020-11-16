@@ -3,7 +3,7 @@
 https://leetcode.com/problems/all-paths-from-source-to-target/
 
 
-1. SM DFS: Time: O(2^(N-2)) Space: O((N+2)*2^(N-3))
+1. MINE DFS: Time: O(2^(N-2)) Space: O((N+2)*2^(N-3))
 
 """
 
@@ -11,7 +11,7 @@ from typing import List
 
 
 class Solution1:
-    """ 1. SM DFS """
+    """ 1. MINE DFS """
 
     def all_paths_source_target(self, graph: List[List[int]]) -> List[List[int]]:
         if not graph:

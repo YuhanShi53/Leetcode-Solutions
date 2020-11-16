@@ -132,3 +132,8 @@ This repository
 ### Math
 
 - [Leetcode 593](solutions/leetcode_593.py)
+
+
+## Note
+
+- MINE mark the self-implement solution

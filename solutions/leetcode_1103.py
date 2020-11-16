@@ -3,7 +3,7 @@
 https://leetcode.com/problems/distribute-candies-to-people/
 
 
-1. SM Brute-Force: Time: O(\sqrt(n)) Space: O(k) (n is num_candies, k is num_people)
+1. MINE Brute-Force: Time: O(\sqrt(n)) Space: O(k) (n is num_candies, k is num_people)
 2. Brute-Force: Time: O(\sqrt(n)) Space: O(k) (n is num_candies, k is num_people)
 
 """
@@ -12,7 +12,7 @@ from typing import List
 
 
 class Solution1:
-    """ 1. SM Brute Force"""
+    """ 1. MINE Brute Force"""
 
     def distribute_candies(self, candies: int, num_people: int) -> List[int]:
         distribution = [0 for i in range(num_people)]

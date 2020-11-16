@@ -2,7 +2,7 @@
 
 https://leetcode.com/problems/pascals-triangle-ii/
 
-1. SM Array: Time: O(k**2) Space: O(k) (k is row index)
+1. MINE Array: Time: O(k**2) Space: O(k) (k is row index)
 
 """
 
@@ -10,7 +10,7 @@ from typing import List
 
 
 class Solution1:
-    """ 1. SM Array """
+    """ 1. MINE Array """
 
     def get_row(self, rowIndex: int) -> List[int]:
         res = [1]

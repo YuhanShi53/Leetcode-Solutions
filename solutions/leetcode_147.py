@@ -2,7 +2,7 @@
 
 https://leetcode.com/problems/insertion-sort-list/
 
-1. SM Linked-List-Insertion-Sort: Time: O(n^2) Space: O(1)
+1. MINE Linked-List-Insertion-Sort: Time: O(n^2) Space: O(1)
 2. Linked-List-Insertion-Sort: Time: O(n^2) Space: O(1)
 
 """
@@ -12,7 +12,7 @@ from common import ListNode
 
 
 class Solution1:
-    """ 1. SM Linked-List-Insertion-Sort"""
+    """ 1. MINE Linked-List-Insertion-Sort"""
 
     def insertion_sort_list(self, head: ListNode) -> ListNode:
         forehead = ListNode(0)

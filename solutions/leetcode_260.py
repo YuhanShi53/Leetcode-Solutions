@@ -2,7 +2,7 @@
 
 https://leetcode.com/problems/single-number-iii/
 
-1. SM Hash-Table (Space complexity not constant)
+1. MINE Hash-Table (Space complexity not constant)
 2. XOR: Time: 68ms(46%) Memory:15MB(35%)
 
 """
@@ -13,7 +13,7 @@ from typing import List
 
 
 class Solution1:
-    """ 1. SM Hash-Table """
+    """ 1. MINE Hash-Table """
 
     def single_number(self, nums: List[int]) -> List[int]:
         count_dict = defaultdict(int)

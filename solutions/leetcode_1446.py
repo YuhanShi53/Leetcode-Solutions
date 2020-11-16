@@ -2,14 +2,14 @@
 
 https://leetcode.com/problems/consecutive-characters/
 
-1. SM Straight-Forward: Time: O(N) Space: O(1) (N is len_of_s)
+1. MINE Straight-Forward: Time: O(N) Space: O(1) (N is len_of_s)
 2. Python-Method: Time: O(N) Space: O(N) (N is len_of_s)
 
 """
 
 
 class Solution1:
-    """ 1. SM Straight-Forward """
+    """ 1. MINE Straight-Forward """
 
     def max_power(self, s: str) -> int:
         max_power = 1

@@ -7,7 +7,7 @@ https://leetcode.com/problems/goat-latin/
 
 
 class Solution1:
-    """ 1. SM """
+    """ 1. MINE """
 
     def to_goat_latin(self, S: str) -> str:
         s = S.split(' ')

@@ -2,13 +2,13 @@
 
 https://leetcode.com/problems/add-and-search-word-data-structure-design/
 
-1. SM Dict-Trie: Add: [Time: O(k) Space: O(n)] Search: [Time: O(n) Space: ] 
+1. MINE Dict-Trie: Add: [Time: O(k) Space: O(n)] Search: [Time: O(n) Space: ] 
 
 """
 
 
 class WordDictionary:
-    """ 1. SM Dict-Trie """
+    """ 1. MINE Dict-Trie """
 
     def __init__(self):
         """

@@ -2,7 +2,7 @@
 
 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
 
-1. SM Traversal: Time: O(n) Memory: O(1)
+1. MINE Traversal: Time: O(n) Memory: O(1)
 2. Binary-Search: Time: AVG-O(logn) WORST-O(n) Memory:O(1)
 
 """
@@ -11,7 +11,7 @@ from typing import List
 
 
 class Solution1:
-    """ 1. SM Traversal """
+    """ 1. MINE Traversal """
 
     def find_min(self, nums: List[int]) -> int:
         if not nums:

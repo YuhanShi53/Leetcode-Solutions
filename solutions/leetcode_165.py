@@ -2,13 +2,13 @@
 
 https://leetcode.com/problems/compare-version-numbers/
 
-1. SM Straight-Forward: Time: O(n) Space: O(n) (n is len_longest_version)
+1. MINE Straight-Forward: Time: O(n) Space: O(n) (n is len_longest_version)
 
 """
 
 
 class Solution1:
-    """ 1. SM Straight-Forward """
+    """ 1. MINE Straight-Forward """
 
     def compare_version(self, version1: str, version2: str) -> int:
         num_1 = version1.split('.')

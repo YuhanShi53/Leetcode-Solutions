@@ -2,7 +2,7 @@
 
 https://leetcode.com/problems/first-missing-positive/
 
-1. SM Flag: Time: O(n) Space: O(1) (n is len_num)
+1. MINE Flag: Time: O(n) Space: O(1) (n is len_num)
 
 """
 
@@ -11,7 +11,7 @@ from typing import List
 
 
 class Solution1:
-    """ 1. SM Flag """
+    """ 1. MINE Flag """
 
     def fisrt_missing_postive(self, nums: List[int]) -> int:
         if not nums:

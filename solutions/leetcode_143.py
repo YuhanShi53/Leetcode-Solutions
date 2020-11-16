@@ -9,7 +9,7 @@ from common import ListNode
 
 
 class Solution1:
-    """ 1. SM Recursive """
+    """ 1. MINE Recursive """
 
     def reorder_list(self, head: ListNode) -> None:
 

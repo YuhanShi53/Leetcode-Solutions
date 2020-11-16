@@ -2,7 +2,7 @@
 
 https://leetcode.com/problems/delete-node-in-a-bst/
 
-1. SM Binary-Search: Time: O(h) Space: (1)
+1. MINE Binary-Search: Time: O(h) Space: (1)
 
 """
 
@@ -10,7 +10,8 @@ from common import TreeNode
 
 
 class Solution1:
-    """ 1. SM Binary-Search """
+    """ 1. MINE Binary-Search """
+
     def delete_node(self, root: TreeNode, key: int):
         if not root:
             return None

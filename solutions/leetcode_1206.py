@@ -2,7 +2,7 @@
 
 https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/
 
-1. SM-BFS-Queue: Time: O(n) Space: O(n) (n is num_of_nodes)
+1. MINE-BFS-Queue: Time: O(n) Space: O(n) (n is num_of_nodes)
 2. Recursive:: Time: O(n) Space: O(n) (n is num_of_nodes)
 
 """
@@ -11,7 +11,7 @@ from common import TreeNode
 
 
 class Solution1:
-    """ 1. SM-BFS-Queue """
+    """ 1. MINE-BFS-Queue """
 
     def max_ancestor_diff(self, root: TreeNode) -> int:
         min_max_queue = [(root.val, root.val)]

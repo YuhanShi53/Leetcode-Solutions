@@ -2,7 +2,7 @@
 
 https://leetcode.com/problems/largest-time-for-given-digits/
 
-1. SM BFS: Time: O(24) Space: O(24)
+1. MINE BFS: Time: O(24) Space: O(24)
 
 """
 
@@ -10,7 +10,7 @@ from typing import List
 
 
 class Solution1:
-    """ 1. SM BFS """
+    """ 1. MINE BFS """
 
     def largest_time_from_digits(self, A: List[int]) -> str:
         A.sort(reverse=True)

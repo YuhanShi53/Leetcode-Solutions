@@ -2,14 +2,14 @@
 
 https://leetcode.com/problems/get-equal-substrings-within-budget/
 
-1. SM Two-pointer: Time: O(n) Space: O(n)
+1. MINE Two-pointer: Time: O(n) Space: O(n)
 2. Sliding-Window: Time: O(n) Space: O(1)
 
 """
 
 
 class Solution1:
-    """ 1. SM Two-pointer """
+    """ 1. MINE Two-pointer """
 
     def equal_substring(self, s: str, t: str, maxCost: int) -> int:
         costs = []

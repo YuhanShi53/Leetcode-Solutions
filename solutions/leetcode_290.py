@@ -2,13 +2,13 @@
 
 https://leetcode.com/problems/word-pattern/
 
-1. SM Dict: Time: O(n) Space: O(2n) (n is len_str)
+1. MINE Dict: Time: O(n) Space: O(2n) (n is len_str)
 
 """
 
 
 class Solution1:
-    """ 1. SM Dict """
+    """ 1. MINE Dict """
 
     def word_pattern(self, pattern: str, str: str) -> bool:
         exist_p = {}

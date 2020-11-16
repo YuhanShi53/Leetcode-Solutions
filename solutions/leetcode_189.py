@@ -9,7 +9,7 @@ from typing import List
 
 
 class Solution1:
-    """ 1. SM Recursive """
+    """ 1. MINE Recursive """
 
     def rotate(self, nums: List[int], k: int) -> None:
 
@@ -21,7 +21,7 @@ class Solution1:
 
 
 class Solution2:
-    """ 2. SM Index-Reverse """
+    """ 2. MINE Index-Reverse """
 
     def rotate(self, nums, k):
         k %= len(nums)

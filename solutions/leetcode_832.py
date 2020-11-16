@@ -2,7 +2,7 @@
 
 https://leetcode.com/problems/flipping-an-image/
 
-1. SM-Straight-Forward: Time: O(n) Space: O(1) (n is num of pixels)
+1. MINE-Straight-Forward: Time: O(n) Space: O(1) (n is num of pixels)
 2. One-Line-Straight-Forward: Time: O(n) Space: O(n) (n is num of pixels)
 
 """
@@ -12,7 +12,7 @@ from typing import List
 
 
 class Solution1:
-    """ 1. SM-Straight-Forward """
+    """ 1. MINE-Straight-Forward """
 
     def flip_and_invert_image(self, image: List[List[int]]) -> List[List[int]]:
         width = len(image[0])

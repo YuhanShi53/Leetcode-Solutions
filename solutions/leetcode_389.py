@@ -2,14 +2,14 @@
 
 https://leetcode.com/problems/find-the-difference/
 
-1. SM Hash: Time: O(n) Space: O(n) (n is len_s)
-2. SM Bit-Manipulation: Time: O(n) Space: O(1) (n is len_s)
+1. MINE Hash: Time: O(n) Space: O(n) (n is len_s)
+2. MINE Bit-Manipulation: Time: O(n) Space: O(1) (n is len_s)
 
 """
 
 
 class Solution1:
-    """ 1. SM Hash """
+    """ 1. MINE Hash """
 
     def find_the_difference(self, s: str, t: str) -> str:
         words = {}
@@ -23,7 +23,7 @@ class Solution1:
 
 
 class Solution2:
-    """ 2. SM Bit-Manipulation """
+    """ 2. MINE Bit-Manipulation """
 
     def find_the_difference(self, s, t):
         difference = 0

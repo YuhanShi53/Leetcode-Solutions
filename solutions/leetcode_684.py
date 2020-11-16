@@ -2,7 +2,7 @@
 
 https://leetcode.com/problems/redundant-connection/
 
-1. SM Union-Find: Time: O(n) Space: O(n) (n is num of nodes)
+1. MINE Union-Find: Time: O(n) Space: O(n) (n is num of nodes)
 
 """
 
@@ -11,7 +11,7 @@ from typing import List
 
 
 class Solution1():
-    """ 1. SM Union-Find """
+    """ 1. MINE Union-Find """
 
     def find_redundant_connection(self, edges: List[List[int]]) -> List[int]:
         relations = [i for i in range(len(edges) + 1)]

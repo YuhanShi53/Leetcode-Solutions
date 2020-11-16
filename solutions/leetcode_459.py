@@ -3,13 +3,13 @@
 https://leetcode.com/problems/repeated-substring-pattern/
 
 
-1. SM
+1. MINE
 
 """
 
 
 class Solution1:
-    """ 1. SM """
+    """ 1. MINE """
 
     def repeated_substring_pattern(self, s: str) -> bool:
         s_len = len(s)

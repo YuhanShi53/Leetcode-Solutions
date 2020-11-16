@@ -9,7 +9,7 @@ from typing import List
 
 
 class Solution1:
-    """ 1. SM """
+    """ 1. MINE """
 
     def min_cost_ticket(self, days: List[int], costs: List[int]) -> int:
         min_cost = [0 for x in range(365 + 30)]

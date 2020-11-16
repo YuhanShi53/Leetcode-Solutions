@@ -2,13 +2,13 @@
 
 https://leetcode.com/problems/detect-capital/
 
-1. SM Naive: Time: O(n) Space: O(1)
+1. MINE Naive: Time: O(n) Space: O(1)
 
 """
 
 
 class Solution1:
-    """ 1. SM """
+    """ 1. MINE """
 
     def detect_capital_use(self, word: str) -> bool:
         is_first_capital = True if word[0].isupper() else False

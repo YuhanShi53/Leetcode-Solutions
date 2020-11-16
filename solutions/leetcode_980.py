@@ -2,7 +2,7 @@
 
 https://leetcode.com/problems/unique-paths-iii/
 
-1. SM DFS & Backtracking: 
+1. MINE DFS & Backtracking: 
 
 """
 
@@ -10,7 +10,7 @@ from typing import List
 
 
 class Solution1:
-    """ 1. SM DFS & Backtracking """
+    """ 1. MINE DFS & Backtracking """
 
     def unique_paths_iii(self, grid: List[List[int]]) -> int:
         num_empty = 0

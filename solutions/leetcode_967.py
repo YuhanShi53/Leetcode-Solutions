@@ -10,7 +10,7 @@ from typing import List
 
 
 class Solution1:
-    """ 1. SM """
+    """ 1. MINE """
 
     def num_same_consec_diff(self, N: int, K: int) -> List[int]:
         queue = deque([x for x in range(1, 10)])

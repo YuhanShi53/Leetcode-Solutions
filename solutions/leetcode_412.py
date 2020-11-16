@@ -2,7 +2,7 @@
 
 https://leetcode.com/problems/fizz-buzz/
 
-1. SM Brute-Force
+1. MINE Brute-Force
 2. Simiplified Brute-Force
 
 """
@@ -11,7 +11,7 @@ from typing import List
 
 
 class Solution1:
-    """ 1. SM Brute-Force """
+    """ 1. MINE Brute-Force """
 
     def fizz_buzz(self, n: int) -> List[str]:
         res = []

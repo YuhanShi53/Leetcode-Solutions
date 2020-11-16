@@ -3,7 +3,7 @@
 https://leetcode.com/problems/gas-station/
 
 
-1. SM Straight-Forward: Time: O(n) Space: O(1)
+1. MINE Straight-Forward: Time: O(n) Space: O(1)
 2. Greedy: Time: O(n) Space: O(1)
 
 """
@@ -12,7 +12,7 @@ from typing import List
 
 
 class Solution1:
-    """ 1. SM Straight-Forward """
+    """ 1. MINE Straight-Forward """
 
     def can_complete_circuit(self, gas: List[int], cost: List[int]) -> int:
         total_profit = 0

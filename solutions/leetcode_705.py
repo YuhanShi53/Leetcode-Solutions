@@ -2,13 +2,13 @@
 
 https://leetcode.com/problems/design-hashset/
 
-1. SM Naive: Time: O(1) Space: O(1000000)
+1. MINE Naive: Time: O(1) Space: O(1000000)
 
 """
 
 
 class MyHashSet:
-    """ 1. SM Naive """
+    """ 1. MINE Naive """
 
     def __init__(self):
         self.hashset = [False for i in range(1000000)]

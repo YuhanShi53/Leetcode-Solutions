@@ -2,7 +2,7 @@
 
 https://leetcode.com/problems/maximum-product-subarray/
 
-1. SM Dynamic-Programming: Time: O(n) Space: O(1) (n is len_nums)
+1. MINE Dynamic-Programming: Time: O(n) Space: O(1) (n is len_nums)
 2. Dynamic-Programming: Time: O(n) Space: O(1) (n is len_nums)
 
 """
@@ -11,7 +11,7 @@ from typing import List
 
 
 class Solution1:
-    """ 1. SM Dynamic-Programming """
+    """ 1. MINE Dynamic-Programming """
 
     def max_product(self, nums: List[int]) -> int:
         positive = 1

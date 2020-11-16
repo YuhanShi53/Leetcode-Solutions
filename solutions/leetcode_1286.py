@@ -3,13 +3,13 @@
 https://leetcode.com/problems/iterator-for-combination/
 
 
-1. SM Pointer: Time: O(k) Space: O(k) (k is combination length)
+1. MINE Pointer: Time: O(k) Space: O(k) (k is combination length)
 
 """
 
 
 class CombinationIterator:
-    """ 1. SM Pointer"""
+    """ 1. MINE Pointer"""
 
     def __init__(self, characters: str, combinationlength: int):
         self.characters = characters

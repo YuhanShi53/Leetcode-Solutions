@@ -16,11 +16,13 @@ class Solution:
         nums[0::] = nums[-1::-1]
 
     def __change_number_at_pointer(self, pointer, nums):
-        smallest_candidate_index = self.__find_smallest_candidate_before(pointer, nums)
-        self.__exchange_numbers_of_indices(pointer, smallest_candidate_index, nums)
+        MINEallest_candidate_index = self.__find_MINEallest_candidate_before(
+            pointer, nums)
+        self.__exchange_numbers_of_indices(
+            pointer, MINEallest_candidate_index, nums)
         self.__transpose_sequence_before(pointer, nums)
 
-    def __find_smallest_candidate_before(self, pointer, nums):
+    def __find_MINEallest_candidate_before(self, pointer, nums):
         for i in range(len(nums)-1, pointer, -1):
             if nums[i] > nums[pointer]:
                 return i
@@ -33,6 +35,6 @@ class Solution:
 
 
 if __name__ == "__main__":
-    nums = [7,6,5,4]
+    nums = [7, 6, 5, 4]
     Solution().next_permutation(nums)
     print(nums)

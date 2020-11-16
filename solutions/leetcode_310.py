@@ -9,7 +9,7 @@ from typing import List
 
 
 class Solution1:
-    """ 1. SM BFS """
+    """ 1. MINE BFS """
 
     def find_min_height_trees(self, n: int, edges: List[List[int]]
                               ) -> List[int]:

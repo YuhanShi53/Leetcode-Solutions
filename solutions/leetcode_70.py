@@ -2,13 +2,13 @@
 
 https://leetcode.com/problems/climbing-stairs/
 
-1. SM DP: Time: O(n) Space: O(1)
+1. MINE DP: Time: O(n) Space: O(1)
 
 """
 
 
 class Solution1:
-    """ 1. SM DP """
+    """ 1. MINE DP """
 
     def climb_stairs(self, n: int) -> int:
         s1, s2 = 1, 0

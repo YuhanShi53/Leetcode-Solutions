@@ -10,7 +10,7 @@ from typing import List
 
 
 class Solution1:
-    """ 1. SM Straight-Forward """
+    """ 1. MINE Straight-Forward """
 
     def sequential_digits(self, low: int, high: int) -> List[int]:
         short_len = len(str(low))

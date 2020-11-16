@@ -2,7 +2,7 @@
 
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
-1. SM DP & Kadane: Time: O(n) Space: O(1) (n is len_prices)
+1. MINE DP & Kadane: Time: O(n) Space: O(1) (n is len_prices)
 2. DP: Time: O(n) Space: O(1) (n is len_prices)
 
 """
@@ -11,7 +11,7 @@ from typing import List
 
 
 class Solution1:
-    """ 1. SM DP & Kadane """
+    """ 1. MINE DP & Kadane """
 
     def max_profit(self, prices: List[int]) -> int:
         if len(prices) < 2:

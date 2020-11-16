@@ -7,7 +7,7 @@ https://leetcode.com/problems/robot-bounded-in-circle/
 
 
 class Solution1:
-    """ 1. SM Straight-Forward """
+    """ 1. MINE Straight-Forward """
 
     def is_robot_bounded(self, instructions: str) -> bool:
         nums = {'G': 0, 'R': 1, 'L': -1}

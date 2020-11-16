@@ -2,7 +2,7 @@
 
 https://leetcode.com/problems/h-index/
 
-1. SM Iteration: Time: O(nlogn) Space: O(1) (n is num of papers)
+1. MINE Iteration: Time: O(nlogn) Space: O(1) (n is num of papers)
 2. Bucket-Sort: Time: O(n) Space: O(n) (n is num of papers)
 
 """

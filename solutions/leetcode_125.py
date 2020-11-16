@@ -3,14 +3,14 @@
 https://leetcode.com/problems/valid-palindrome/
 
 
-1. SM Two-Pointer: Time: O(n) Space: O(n)
+1. MINE Two-Pointer: Time: O(n) Space: O(n)
 2. Simiplified Two-Pointer: Time: O(n) Space: O(1)
 
 """
 
 
 class Solution1:
-    """ 1. SM Two-Pointer """
+    """ 1. MINE Two-Pointer """
 
     def is_palindrome(self, s: str) -> bool:
         lower_alphabet = 'abcdefghijklmnopqrstuvwxyz'

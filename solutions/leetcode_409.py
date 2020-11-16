@@ -9,7 +9,7 @@ from collections import defaultdict
 
 
 class Solution1:
-    """ 1. SM Hash-Table """
+    """ 1. MINE Hash-Table """
 
     def longest_palindrome(self, s: str) -> int:
         num_counts = defaultdict(int)

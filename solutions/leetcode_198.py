@@ -2,7 +2,7 @@
 
 https://leetcode.com/problems/house-robber/
 
-1. SM Dynamic-Programmin: Time: O(n) Space: O(1)
+1. MINE Dynamic-Programmin: Time: O(n) Space: O(1)
 
 """
 
@@ -10,7 +10,7 @@ from typing import List
 
 
 class Solution1:
-    """ 1. SM Dynamic-Programming """
+    """ 1. MINE Dynamic-Programming """
 
     def rob(self, nums: List[int]) -> int:
         profit_night_before = 0

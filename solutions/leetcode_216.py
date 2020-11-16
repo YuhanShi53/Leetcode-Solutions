@@ -2,7 +2,7 @@
 
 https://leetcode.com/problems/combination-sum-iii/
 
-1. SM Backtracking & DFS
+1. MINE Backtracking & DFS
 
 """
 
@@ -10,7 +10,7 @@ from typing import List
 
 
 class Solution1:
-    """ 1. SM Backtracking & DFS """
+    """ 1. MINE Backtracking & DFS """
 
     def combination_sum_3(self, k: int, n: int) -> List[List[int]]:
         if k == 0 or n == 0:

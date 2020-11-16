@@ -2,7 +2,7 @@
 
 https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
 
-1. SM BFS: Time: O(n) Space: O(k) (n is num_nodes, k is num_levels)
+1. MINE BFS: Time: O(n) Space: O(k) (n is num_nodes, k is num_levels)
 
 """
 
@@ -11,7 +11,7 @@ from common import TreeNode
 
 
 class Solution1:
-    """ 1. SM BFS """
+    """ 1. MINE BFS """
 
     def sum_root_to_leaf(self, root: TreeNode) -> int:
         if root is None:

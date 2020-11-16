@@ -2,7 +2,7 @@
 
 https://leetcode.com/problems/daily-temperatures/
 
-1. SM Mono-Stack: Time: O(n) Space: O(n)
+1. MINE Mono-Stack: Time: O(n) Space: O(n)
 
 """
 
@@ -10,7 +10,7 @@ from typing import List
 
 
 class Solution1:
-    """ 1. SM Mono-Stack """
+    """ 1. MINE Mono-Stack """
 
     def daliy_temperatures(self, T: List[int]) -> List[int]:
         mono_stack = []

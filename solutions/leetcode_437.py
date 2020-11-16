@@ -2,7 +2,7 @@
 
 https://leetcode.com/problems/path-sum-iii/
 
-1. SM DFS & Backtracing
+1. MINE DFS & Backtracing
 
 """
 
@@ -10,7 +10,7 @@ from common import TreeNode
 
 
 class Solution1:
-    """ 1. SM DFS & Backtracing """
+    """ 1. MINE DFS & Backtracing """
 
     def path_sum(self, root: TreeNode, sum: int) -> int:
 
