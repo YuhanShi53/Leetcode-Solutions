@@ -26,6 +26,7 @@ This repository
 - leetcode_139
 - leetcode_147
 - leetcode_41
+- leetcode_56
 
 ## Wait for Improvement
 
@@ -133,7 +134,10 @@ This repository
 
 - [Leetcode 593](solutions/leetcode_593.py)
 
+### Merge Interval
+
+- [Leetcode 56](solutions/leetcode_56.py)
 
 ## Note
 
-- MINE mark the self-implement solution
+- MINE mark the self-implement solution.
