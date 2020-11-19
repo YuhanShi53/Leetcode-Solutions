@@ -1,6 +1,13 @@
 # Leetcode
 
-This repository
+This repository records my solutions and other reference solutions copied from
+Leetcode discussion.
+
+My own solutions are marked with 'MINE' in the docsting of the solution class,
+which are only used to record my own analysis and solutions. Better solution are
+also appended under my own solutions, but are not promised to be the 
+optimizations. Please head to Leetcode discussion if you are looking for 
+optimized and gentle solutions.
 
 ## Unsolved
 
