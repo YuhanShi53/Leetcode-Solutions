@@ -5,8 +5,8 @@ Leetcode discussion.
 
 My own solutions are marked with 'MINE' in the docsting of the solution class,
 which are only used to record my own analysis and solutions. Better solution are
-also appended under my own solutions, but are not promised to be the 
-optimizations. Please head to Leetcode discussion if you are looking for 
+also appended under my own solutions, but are not promised to be the
+optimizations. Please head to Leetcode discussion if you are looking for
 optimized and gentle solutions.
 
 ## Unsolved
@@ -119,6 +119,7 @@ optimized and gentle solutions.
 
 ### Tree
 
+- [Leetcode 173](solutions/leetcode_173.py)
 - [Leetcode 1022](solutions/leetcode_1022.py)
 
 ### Interval
@@ -145,6 +146,10 @@ optimized and gentle solutions.
 
 - [Leetcode 56](solutions/leetcode_56.py)
 
+### Inorder Traversal
+
+- [Leetcode 173](solution/leetcode_173.py)
+
 ## Note
 
-- MINE mark the self-implement solution.
+- `MINE` mark the self-implement solution.
