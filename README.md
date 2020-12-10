@@ -116,6 +116,7 @@ optimized and gentle solutions.
 ### Two Pointer
 
 - [Leetcode 763](solutions/leetcode_763.py)
+- [Leetcode 941](solution/leetcode_941.py)
 
 ### Tree
 
