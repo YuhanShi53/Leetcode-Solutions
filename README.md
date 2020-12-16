@@ -116,7 +116,8 @@ optimized and gentle solutions.
 ### Two Pointer
 
 - [Leetcode 763](solutions/leetcode_763.py)
-- [Leetcode 941](solution/leetcode_941.py)
+- [Leetcode 941](solutions/leetcode_941.py)
+- [Leetcode 977](solutions/leetcode_977.py)
 
 ### Tree
 
@@ -149,7 +150,11 @@ optimized and gentle solutions.
 
 ### Inorder Traversal
 
-- [Leetcode 173](solution/leetcode_173.py)
+- [Leetcode 173](solutions/leetcode_173.py)
+
+### Sort
+
+- [Leetcode 977](solutions/leetcode_977.py)
 
 ## Note
 
