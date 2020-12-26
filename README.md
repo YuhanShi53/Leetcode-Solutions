@@ -77,6 +77,7 @@ optimized and gentle solutions.
 
 ### Dynamic Processing
 
+- [Leetcode 91](solutions/leetcode_91.py)
 - [Leetcode 121](solutions/leetcode_121.py)
 - [Leetcode 139](solutions/leetcode_139.py)
 - [Leetcode 152](solutions/leetcode_152.py)
