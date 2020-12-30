@@ -74,6 +74,7 @@ optimized and gentle solutions.
 ### Bit-Manipulation
 
 - [Leetcode 389](solutions/leetcode_389.py)
+- [Leetcode 1457](solutions/leetcode_1457.py)
 
 ### Dynamic Processing
 
@@ -113,6 +114,7 @@ optimized and gentle solutions.
 - [Leetcode 216](solutions/leetcode_216.py)
 - [Leetcode 980](solutions/leetcode_980.py)
 - [Leetcode 1206](solutions/leetcode_1206.py)
+- [Leetcode 1457](solutions/leetcode_1457.py)
 
 ### Two Pointer
 
@@ -124,6 +126,7 @@ optimized and gentle solutions.
 
 - [Leetcode 173](solutions/leetcode_173.py)
 - [Leetcode 1022](solutions/leetcode_1022.py)
+- [Leetcode 1457](solutions/leetcode_1457.py)
 
 ### Interval
 
