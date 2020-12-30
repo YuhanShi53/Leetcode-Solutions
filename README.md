@@ -73,6 +73,7 @@ optimized and gentle solutions.
 
 ### Bit-Manipulation
 
+- [Leetcode 289](solutionns/leetcode_289.py)
 - [Leetcode 389](solutions/leetcode_389.py)
 - [Leetcode 1457](solutions/leetcode_1457.py)
 
