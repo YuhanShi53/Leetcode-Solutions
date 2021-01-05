@@ -1,47 +1,37 @@
-# Definition for singly-linked list.
-class ListNode:
-    def __init__(self, x):
-        self.val = x
-        self.next = None
+""" Leetcode 21 - Merge Two Soorted Lists
 
-class Solution:
-    def merge_two_lists(self, l1, l2):
-        before_head = ListNode(0)
-        head = before_head
+https://leetcode.com/problems/merge-two-sorted-lists/
+
+1. Time: O(m+n) Memory: O(1) (m, n are length of l1 and l2)
+
+"""
+
+from common import ListNode
+
+
+class Solution1:
+    """ 1. MINE | Iterative """
+
+    def merge_two_lists(self, l1: ListNode, l2: ListNode) -> ListNode:
+        head = head_copy = ListNode(0)
         while l1 is not None and l2 is not None:
             if l1.val <= l2.val:
-                head.next = ListNode(l1.val)
+                head.next = l1
                 l1 = l1.next
-            elif l1.val > l2.val:
-                head.next = ListNode(l2.val)
+            else:
+                head.next = l2
                 l2 = l2.next
-            
             head = head.next
+        head.next = l1 if l1 is not None else l2
+        return head_copy.next
 
-        if l1 is not None:
-            head.next = l1
-        else:
-            head.next = l2
-        
-        return before_head.next
-
-def transfer_list_to_linked_list(nums):
-    before_head = ListNode(0)
-    head = before_head
-    for x in nums:
-        head.next = ListNode(x)
-        head = head.next
-    return before_head.next
 
 if __name__ == "__main__":
     l1 = [1, 2, 4]
     l2 = [1, 3, 4]
-    l1_head = transfer_list_to_linked_list(l1)
-    l2_head = transfer_list_to_linked_list(l2)
-    l1_head = None
-    l2_head = None
-    res_head = Solution().merge_two_lists(l1_head, l2_head)
+    l1_head = ListNode.from_list(l1)
+    l2_head = ListNode.from_list(l2)
+    res_head = Solution1().merge_two_lists(l1_head, l2_head)
     while res_head is not None:
         print(res_head.val)
         res_head = res_head.next
-        

@@ -95,6 +95,10 @@ optimized and gentle solutions.
 
 - [Leetcode_389](solutions/leetcode_389.py)
 
+### Linked List
+
+- [Leetcode_21](solutions/leetcode_21.py)
+
 ### Mono Stack
 
 - [Leetcode 503](solutions/leetcode_503.py)
