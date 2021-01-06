@@ -1,36 +1,57 @@
-# https://leetcode.com/problems/game-of-life/
+""" Leetcode 289 - Game of Life
 
-class Solution():
+https://leetcode.com/problems/game-of-life/
+
+"""
+
+from typing import List
+
+
+class Solution1:
+    """ 1. MINE """
+
+    def game_of_life(self, board: List[List[int]]) -> None:
+        height, width = len(board), len(board[0])
+        directions = ((-1, -1), (-1, 0), (-1, 1), (0, 1),
+                      (1, 1), (1, 0), (1, -1), (0, -1))
+        for i in range(height):
+            for j in range(width):
+                neighbour = 0
+                for direction in directions:
+                    ii, jj = i + direction[0], j + direction[1]
+                    if (0 <= ii < height
+                            and 0 <= jj < width):
+                        neighbour += board[ii][jj] % 2
+                if neighbour < 2 or neighbour > 3:
+                    board[i][j] = 0 if board[i][j] == 0 else 3
+                elif board[i][j] == 0 and neighbour == 2:
+                    board[i][j] = 0 if board[i][j] == 0 else 3
+                else:
+                    board[i][j] = 1 if board[i][j] == 1 else 2
+        for i in range(height):
+            for j in range(width):
+                board[i][j] = 0 if board[i][j] % 3 == 0 else 1
+
+
+class Solution2:
+    """ 2. Bit-Manipulation """
+
     def game_of_life(self, board):
-        self.board = board
-        self.directions = [(-1, 0), (-1, 1), (0, 1), (1, 1), (1, 0), (1, -1), 
-        (0, -1), (-1, -1)]
-        self.height = len(board)
-        self.width = len(board[0])
+        height, width = len(board), len(board[0])
+        for i in range(height):
+            for j in range(width):
+                count = 0
+                for ii in range(max(0, i-1), min(i+2, height)):
+                    for jj in range(max(0, j-1), min(j+2, width)):
+                        count += board[ii][jj] & 1
+                if count == 3 or count - board[i][j] == 3:
+                    board[i][j] |= 2
+        for i in range(height):
+            for j in range(width):
+                board[i][j] >>= 1
 
-        for y in range(self.height):
-            for x in range(self.width):
-                self.decide_life([y, x])
 
-        for y in range(self.height):
-            for x in range(self.width):
-                self.board[y][x] = self.board[y][x] >> 1
-
-    def decide_life(self, position):
-        y = position[0]
-        x = position[1]
-        num_alive_neighbor = 0
-        for direction in self.directions:
-            next_y = y + direction[0]
-            next_x = x + direction[1]
-            if next_y >= 0 and next_y < self.height and next_x >= 0 and \
-                next_x < self.width and self.board[next_y][next_x] & 1:
-                num_alive_neighbor += 1
-        if (self.board[y][x] and num_alive_neighbor == 2) or \
-            num_alive_neighbor == 3:
-            self.board[y][x] |= 2
-
-if __name__ == "__main__":
-    state = [[0, 1, 0], [0, 0, 1], [1, 1, 1], [0, 0, 0]]
-    Solution().game_of_life(state)
-    print(state)
+if __name__ == '__main__':
+    board = [[0, 1, 0], [0, 0, 1], [1, 1, 1], [0, 0, 0]]
+    Solution2().game_of_life(board)
+    print(board)

@@ -98,6 +98,8 @@ optimized and gentle solutions.
 ### Linked List
 
 - [Leetcode_21](solutions/leetcode_21.py)
+- [Leetcode_82](solutions/leetcode_82.py)
+- [Leetcode_83](solutions/leetcode_83.py)
 
 ### Mono Stack
 
