@@ -2,6 +2,8 @@
 
 https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 
+1. Time: O(n) Memory: O(n) (n is larger length of word1 and word2)
+
 """
 
 from typing import List

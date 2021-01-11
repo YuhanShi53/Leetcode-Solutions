@@ -162,6 +162,7 @@ optimized and gentle solutions.
 ### Merge Interval
 
 - [Leetcode 56](solutions/leetcode_56.py)
+- [Leetcode 88](solutions/leetcode_88.py)
 - [Leetcode 754](solutions/leetcode_754.py)
 
 ### Inorder Traversal

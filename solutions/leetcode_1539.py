@@ -2,6 +2,9 @@
 
 https://leetcode.com/problems/kth-missing-positive-number/
 
+1. Time: O(n) Memory: O(1) (n is length of arr)
+2. Time: O(logn) Memory: O(1) (n is length of array)
+
 """
 
 from typing import List
