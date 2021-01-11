@@ -71,6 +71,10 @@ optimized and gentle solutions.
 - [Leetcode 216](solutions/leetcode_216.py)
 - [Leetcode 980](solutions/leetcode_980.py)
 
+### Binary Search
+
+- [Leetcode 1539](solutions/leetcode_1539.py)
+
 ### Bit-Manipulation
 
 - [Leetcode 289](solutionns/leetcode_289.py)
