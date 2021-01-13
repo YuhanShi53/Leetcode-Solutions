@@ -130,6 +130,7 @@ optimized and gentle solutions.
 ### Two Pointer
 
 - [Leetcode 763](solutions/leetcode_763.py)
+- [Leetcode 881](solutions/leetcode_881.py)
 - [Leetcode 941](solutions/leetcode_941.py)
 - [Leetcode 977](solutions/leetcode_977.py)
 
