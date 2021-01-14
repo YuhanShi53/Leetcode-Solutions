@@ -133,6 +133,7 @@ optimized and gentle solutions.
 - [Leetcode 881](solutions/leetcode_881.py)
 - [Leetcode 941](solutions/leetcode_941.py)
 - [Leetcode 977](solutions/leetcode_977.py)
+- [Leetcode 1658](solutions/leetcode_1658.py)
 
 ### Tree
 
