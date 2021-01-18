@@ -89,6 +89,7 @@ optimized and gentle solutions.
 - [Leetcode 152](solutions/leetcode_152.py)
 - [Leetcode 198](solutions/leetcode_198.py)
 - [Leetcode 983](solutions/leetcode_983.py)
+- [Leetcode 1641](solutions/leetccode_1641.py)
 
 ### Greedy
 
