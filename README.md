@@ -155,6 +155,10 @@ optimized and gentle solutions.
 
 - [Leetcode 147](solutions/leetcode_147.py)
 
+### Stack
+
+- [Leetcode 20](solutions/leetcode_20.py)
+
 ### Recursive
 
 - [Leetcode 1206](solutions/leetcode_1206.py)
