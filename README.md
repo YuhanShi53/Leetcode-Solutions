@@ -99,6 +99,7 @@ optimized and gentle solutions.
 ### Hash
 
 - [Leetcode_389](solutions/leetcode_389.py)
+- [Leetcode 1657](solutions/leetcode_1657.py)
 - [Leetcode 1679](solutions/leetcode_1679.py)
 
 ### Linked List
