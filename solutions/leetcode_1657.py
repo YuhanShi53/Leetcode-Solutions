@@ -2,7 +2,8 @@
 
 https://leetcode.com/problems/determine-if-two-strings-are-close/
 
-
+1. Time: O(max(n, klogk) Memory: O(k) (n is length of word, k is num of characters)
+2. Time: O(max(n, klogk) Memory: O(k) (n is length of word, k is num of characters)
 
 """
 
