@@ -80,6 +80,7 @@ optimized and gentle solutions.
 - [Leetcode 289](solutionns/leetcode_289.py)
 - [Leetcode 389](solutions/leetcode_389.py)
 - [Leetcode 1457](solutions/leetcode_1457.py)
+- [Leetcode_1680](solutions/leetcode_1680.py)
 
 ### Dynamic Processing
 
@@ -167,6 +168,7 @@ optimized and gentle solutions.
 ### Math
 
 - [Leetcode 593](solutions/leetcode_593.py)
+- [Leetcode_1680](solutions/leetcode_1680.py)
 
 ### Merge Interval
 
