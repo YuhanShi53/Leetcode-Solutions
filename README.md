@@ -96,6 +96,7 @@ optimized and gentle solutions.
 
 - [Leetcode 134](solutions/leetcode_134.py)
 - [Leetcode 763](solutions/leetcode_763.py)
+- [Leetcode 1663](solutions/leetcode_1663.py)
 
 ### Hash
 
