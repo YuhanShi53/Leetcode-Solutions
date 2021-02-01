@@ -1,40 +1,39 @@
-# https://leetcode.com/problems/next-permutation/
+""" Leetcode 31 - Next Permutation
 
-class Solution:
-    def next_permutation(self, nums):
-        if len(nums) == 0:
-            return
-        elif len(nums) == 1:
-            return
+https://leetcode.com/problems/next-permutation/
 
+1. Time: O(n) Memory: O(1) (n is length of nums)
+
+"""
+
+from typing import List
+
+
+class Solution1:
+    """ 1. Array """
+
+    def next_permutation(self, nums: List[int]) -> None:
+        if len(nums) <= 1:
+            return
         pointer = len(nums) - 2
-        while(pointer >= 0):
-            if nums[pointer] < nums[pointer + 1]:
-                self.__change_number_at_pointer(pointer, nums)
+
+        while pointer >= 0:
+            if nums[pointer] < nums[pointer+1]:
+                target_i = self._find_smallest_larger_num(pointer, nums)
+                nums[pointer], nums[target_i] = nums[target_i], nums[pointer]
+                nums[pointer+1::] = nums[len(nums)-1:pointer:-1]
                 return
             pointer -= 1
-        nums[0::] = nums[-1::-1]
+        nums[0:] = nums[-1::-1]
 
-    def __change_number_at_pointer(self, pointer, nums):
-        MINEallest_candidate_index = self.__find_MINEallest_candidate_before(
-            pointer, nums)
-        self.__exchange_numbers_of_indices(
-            pointer, MINEallest_candidate_index, nums)
-        self.__transpose_sequence_before(pointer, nums)
-
-    def __find_MINEallest_candidate_before(self, pointer, nums):
-        for i in range(len(nums)-1, pointer, -1):
+    def _find_smallest_larger_num(self, pointer, nums):
+        target = len(nums) - 1
+        for i in range(target, pointer, -1):
             if nums[i] > nums[pointer]:
                 return i
 
-    def __exchange_numbers_of_indices(self, index_1, index_2, nums):
-        nums[index_1], nums[index_2] = nums[index_2], nums[index_1]
-
-    def __transpose_sequence_before(self, pointer, nums):
-        nums[pointer+1::] = nums[len(nums)-1:pointer:-1]
-
 
 if __name__ == "__main__":
-    nums = [7, 6, 5, 4]
-    Solution().next_permutation(nums)
+    nums = [1, 2, 4, 3]
+    Solution1().next_permutation(nums)
     print(nums)
