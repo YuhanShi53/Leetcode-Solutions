@@ -71,16 +71,29 @@ optimized and gentle solutions.
 - [Leetcode 216](solutions/leetcode_216.py)
 - [Leetcode 980](solutions/leetcode_980.py)
 
+### BFS
+
+- [Leetcode 994](solutions/leetcode_994.py)
+- [Leetcode 1022](solutions/leetcode_1022.py)
+
 ### Binary Search
 
 - [Leetcode 1539](solutions/leetcode_1539.py)
 
 ### Bit-Manipulation
 
-- [Leetcode 289](solutionns/leetcode_289.py)
+- [Leetcode 191](solutions/leetcode_191.py)
+- [Leetcode 289](solutions/leetcode_289.py)
 - [Leetcode 389](solutions/leetcode_389.py)
 - [Leetcode 1457](solutions/leetcode_1457.py)
 - [Leetcode_1680](solutions/leetcode_1680.py)
+
+### DFS
+
+- [Leetcode 216](solutions/leetcode_216.py)
+- [Leetcode 980](solutions/leetcode_980.py)
+- [Leetcode 1206](solutions/leetcode_1206.py)
+- [Leetcode 1457](solutions/leetcode_1457.py)
 
 ### Dynamic Processing
 
@@ -104,47 +117,9 @@ optimized and gentle solutions.
 - [Leetcode 1657](solutions/leetcode_1657.py)
 - [Leetcode 1679](solutions/leetcode_1679.py)
 
-### Linked List
-
-- [Leetcode_21](solutions/leetcode_21.py)
-- [Leetcode_82](solutions/leetcode_82.py)
-- [Leetcode_83](solutions/leetcode_83.py)
-
-### Mono Stack
-
-- [Leetcode 503](solutions/leetcode_503.py)
-- [Leetcode 739](solutions/leetcode_739.py)
-
-### Union Find
-
-- [Leetcode 547](solutions/leetcode_547.py)
-- [Leetcode 684](solutions/leetcode_684.py)
-
-### BFS
-
-- [Leetcode 994](solutions/leetcode_994.py)
-- [Leetcode 1022](solutions/leetcode_1022.py)
-
-### DFS
-
-- [Leetcode 216](solutions/leetcode_216.py)
-- [Leetcode 980](solutions/leetcode_980.py)
-- [Leetcode 1206](solutions/leetcode_1206.py)
-- [Leetcode 1457](solutions/leetcode_1457.py)
-
-### Two Pointer
-
-- [Leetcode 763](solutions/leetcode_763.py)
-- [Leetcode 881](solutions/leetcode_881.py)
-- [Leetcode 941](solutions/leetcode_941.py)
-- [Leetcode 977](solutions/leetcode_977.py)
-- [Leetcode 1658](solutions/leetcode_1658.py)
-
-### Tree
+### Inorder Traversal
 
 - [Leetcode 173](solutions/leetcode_173.py)
-- [Leetcode 1022](solutions/leetcode_1022.py)
-- [Leetcode 1457](solutions/leetcode_1457.py)
 
 ### Interval
 
@@ -154,17 +129,12 @@ optimized and gentle solutions.
 
 - [Leetcode 121](solutions/leetcode_121.py)
 
-### Sort(Linked List)
+### Linked List
 
-- [Leetcode 147](solutions/leetcode_147.py)
-
-### Stack
-
-- [Leetcode 20](solutions/leetcode_20.py)
-
-### Recursive
-
-- [Leetcode 1206](solutions/leetcode_1206.py)
+- [Leetcode_21](solutions/leetcode_21.py)
+- [Leetcode_82](solutions/leetcode_82.py)
+- [Leetcode_83](solutions/leetcode_83.py)
+- [Leetcode 141](solutions/leetcode_141.py)
 
 ### Math
 
@@ -177,14 +147,50 @@ optimized and gentle solutions.
 - [Leetcode 88](solutions/leetcode_88.py)
 - [Leetcode 754](solutions/leetcode_754.py)
 
-### Inorder Traversal
+### Mono Stack
 
-- [Leetcode 173](solutions/leetcode_173.py)
+- [Leetcode 503](solutions/leetcode_503.py)
+- [Leetcode 739](solutions/leetcode_739.py)
+
+### Recursive
+
+- [Leetcode 1206](solutions/leetcode_1206.py)
+
+### Stack
+
+- [Leetcode 20](solutions/leetcode_20.py)
 
 ### Sort
 
 - [Leetcode 977](solutions/leetcode_977.py)
 
+### Sort(Linked List)
+
+- [Leetcode 147](solutions/leetcode_147.py)
+
+### Two Pointer
+
+- [Leetcode 141](solutions/leetcode_141.py)
+- [Leetcode 763](solutions/leetcode_763.py)
+- [Leetcode 881](solutions/leetcode_881.py)
+- [Leetcode 941](solutions/leetcode_941.py)
+- [Leetcode 977](solutions/leetcode_977.py)
+- [Leetcode 1658](solutions/leetcode_1658.py)
+
+### Tree
+
+- [Leetcode 173](solutions/leetcode_173.py)
+- [Leetcode 1022](solutions/leetcode_1022.py)
+- [Leetcode 1457](solutions/leetcode_1457.py)
+
+### Union Find
+
+- [Leetcode 547](solutions/leetcode_547.py)
+- [Leetcode 684](solutions/leetcode_684.py)
+
+***
+
 ## Note
 
 - `MINE` mark the self-implement solution.
+- Unmerged branch indicate the problems to be solved or optimized.
