@@ -80,6 +80,10 @@ optimized and gentle solutions.
 
 - [Leetcode 1539](solutions/leetcode_1539.py)
 
+### Binary Search Tree
+
+ - [Leetcode 538](solutions/leetcode_538.py)
+
 ### Bit-Manipulation
 
 - [Leetcode 191](solutions/leetcode_191.py)
@@ -91,6 +95,7 @@ optimized and gentle solutions.
 ### DFS
 
 - [Leetcode 216](solutions/leetcode_216.py)
+- [Leetcode 538](solutions/leetcode_538.py)
 - [Leetcode 980](solutions/leetcode_980.py)
 - [Leetcode 1206](solutions/leetcode_1206.py)
 - [Leetcode 1457](solutions/leetcode_1457.py)
@@ -156,6 +161,7 @@ optimized and gentle solutions.
 
 ### Recursive
 
+- [Leetcode 538](solutions/leetcode_538.py)
 - [Leetcode 1206](solutions/leetcode_1206.py)
 
 ### Stack
@@ -182,6 +188,7 @@ optimized and gentle solutions.
 ### Tree
 
 - [Leetcode 173](solutions/leetcode_173.py)
+- [Leetcode 538](solutions/leetcode_538.py)
 - [Leetcode 1022](solutions/leetcode_1022.py)
 - [Leetcode 1457](solutions/leetcode_1457.py)
 
