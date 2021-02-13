@@ -89,8 +89,9 @@ optimized and gentle solutions.
 - [Leetcode 191](solutions/leetcode_191.py)
 - [Leetcode 289](solutions/leetcode_289.py)
 - [Leetcode 389](solutions/leetcode_389.py)
+- [Leetcode 1342](solutions/leetcode_1342.py)
 - [Leetcode 1457](solutions/leetcode_1457.py)
-- [Leetcode_1680](solutions/leetcode_1680.py)
+- [Leetcode 1680](solutions/leetcode_1680.py)
 
 ### DFS
 
