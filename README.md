@@ -89,14 +89,13 @@ optimized and gentle solutions.
 - [Leetcode 191](solutions/leetcode_191.py)
 - [Leetcode 289](solutions/leetcode_289.py)
 - [Leetcode 389](solutions/leetcode_389.py)
-- [Leetcode 1342](solutions/leetcode_1342.py)
 - [Leetcode 1457](solutions/leetcode_1457.py)
-- [Leetcode 1680](solutions/leetcode_1680.py)
+- [Leetcode_1680](solutions/leetcode_1680.py)
 
 ### DFS
 
 - [Leetcode 216](solutions/leetcode_216.py)
-- [Leetcode 538](solutions/leetcode_538.py)
+- [Leetcode 538](solutions/leetcode_538.py)q
 - [Leetcode 980](solutions/leetcode_980.py)
 - [Leetcode 1206](solutions/leetcode_1206.py)
 - [Leetcode 1457](solutions/leetcode_1457.py)
@@ -108,6 +107,7 @@ optimized and gentle solutions.
 - [Leetcode 139](solutions/leetcode_139.py)
 - [Leetcode 152](solutions/leetcode_152.py)
 - [Leetcode 198](solutions/leetcode_198.py)
+- [Leetcode 413](solutions/leetcode_413.py)
 - [Leetcode 821](solutions/leetcode_821.py)
 - [Leetcode 983](solutions/leetcode_983.py)
 - [Leetcode 1641](solutions/leetccode_1641.py)
@@ -120,7 +120,6 @@ optimized and gentle solutions.
 
 ### Hash Map
 
-- [Leetcode 242](solutions/leetcode_242.py)
 - [Leetcode_389](solutions/leetcode_389.py)
 - [Leetcode 594](solutions/leetcode_594.py)
 - [Leetcode 1657](solutions/leetcode_1657.py)
@@ -147,6 +146,7 @@ optimized and gentle solutions.
 
 ### Math
 
+- [Leetcode 413](solutions/leetcode_413.py)
 - [Leetcode 593](solutions/leetcode_593.py)
 - [Leetcode_1680](solutions/leetcode_1680.py)
 
