@@ -178,6 +178,10 @@ optimized and gentle solutions.
 
 - [Leetcode 147](solutions/leetcode_147.py)
 
+### Two Pass
+
+- [Leetcode 1249](solutions/leetcode_1249.py)
+
 ### Two Pointer
 
 - [Leetcode 141](solutions/leetcode_141.py)
