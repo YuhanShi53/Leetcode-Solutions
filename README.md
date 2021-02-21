@@ -90,7 +90,7 @@ optimized and gentle solutions.
 - [Leetcode 289](solutions/leetcode_289.py)
 - [Leetcode 389](solutions/leetcode_389.py)
 - [Leetcode 1457](solutions/leetcode_1457.py)
-- [Leetcode_1680](solutions/leetcode_1680.py)
+- [Leetcode 1680](solutions/leetcode_1680.py)
 
 ### DFS
 
@@ -120,7 +120,8 @@ optimized and gentle solutions.
 
 ### Hash Map
 
-- [Leetcode_389](solutions/leetcode_389.py)
+- [Leetcode 13](solutions/leetcode_19.py)
+- [Leetcode 389](solutions/leetcode_389.py)
 - [Leetcode 594](solutions/leetcode_594.py)
 - [Leetcode 1657](solutions/leetcode_1657.py)
 - [Leetcode 1679](solutions/leetcode_1679.py)
@@ -131,7 +132,7 @@ optimized and gentle solutions.
 
 ### Interval
 
-- [Leetcode_57](solutions/leetcode_57.py)
+- [Leetcode 57](solutions/leetcode_57.py)
 
 ### Kadane
 
@@ -139,16 +140,16 @@ optimized and gentle solutions.
 
 ### Linked List
 
-- [Leetcode_21](solutions/leetcode_21.py)
-- [Leetcode_82](solutions/leetcode_82.py)
-- [Leetcode_83](solutions/leetcode_83.py)
+- [Leetcode 21](solutions/leetcode_21.py)
+- [Leetcode 82](solutions/leetcode_82.py)
+- [Leetcode 83](solutions/leetcode_83.py)
 - [Leetcode 141](solutions/leetcode_141.py)
 
 ### Math
 
 - [Leetcode 413](solutions/leetcode_413.py)
 - [Leetcode 593](solutions/leetcode_593.py)
-- [Leetcode_1680](solutions/leetcode_1680.py)
+- [Leetcode 1680](solutions/leetcode_1680.py)
 
 ### Merge Interval
 
