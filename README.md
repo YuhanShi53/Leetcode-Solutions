@@ -82,7 +82,7 @@ optimized and gentle solutions.
 
 ### Binary Search Tree
 
- - [Leetcode 538](solutions/leetcode_538.py)
+- [Leetcode 538](solutions/leetcode_538.py)
 
 ### Bit-Manipulation
 
