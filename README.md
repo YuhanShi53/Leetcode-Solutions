@@ -78,6 +78,7 @@ optimized and gentle solutions.
 
 ### Binary Search
 
+- [Leetcode 240](solutions/leetcode_240.py)
 - [Leetcode 1539](solutions/leetcode_1539.py)
 
 ### Binary Search Tree
