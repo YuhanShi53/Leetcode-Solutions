@@ -172,6 +172,7 @@ optimized and gentle solutions.
 ### Stack
 
 - [Leetcode 20](solutions/leetcode_20.py)
+- [Leetcode 856](solutions/leetcode_856.py)
 
 ### Sort
 
