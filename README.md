@@ -173,6 +173,7 @@ optimized and gentle solutions.
 
 - [Leetcode 20](solutions/leetcode_20.py)
 - [Leetcode 856](solutions/leetcode_856.py)
+- [Leetcode 946](solutions/leetcode_946.py)
 
 ### Sort
 
