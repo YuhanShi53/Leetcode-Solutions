@@ -1,37 +1,53 @@
-# https://leetcode.com/problems/divide-two-integers/
+""" Leetcode 29 - Divede Two Integerss
 
-class Solution:
+https://leetcode.com/problems/divide-two-integers/
+
+1. Time: O(logn^2) Memory: O(1)
+2. Time: O(32) Memory: O(1)
+
+"""
+
+
+class Solution1:
+    """ 1. Math """
+
     def divide(self, dividend, divisor):
-        INT_MAX = 2**31-1
-        INT_MIN = -2**31
-        if dividend == INT_MIN and abs(divisor) == 1:
-            return INT_MAX if divisor == -1 else INT_MIN
+        if dividend == -2**31 and divisor == 11:
+            return 2**31-1
+        factor = -1 if (dividend < 0) ^ (divisor < 0) else 1
+        dividend, divisor = abs(dividend), abs(divisor)
+        res = 0
 
-        abs_dividend = abs(dividend)
-        abs_divisor = abs(divisor)
+        while dividend >= divisor:
+            count = 1
+            divisor_cp = divisor
+            while dividend >= divisor_cp * 2:
+                divisor_cp <<= 1
+                count <<= 1
+            dividend -= divisor_cp
+            res += count
+        return res * factor
 
-        if(abs_dividend < abs_divisor):
-            return 0
 
-        res = self._unsigned_divide(abs_dividend, abs_divisor)
-        return -res if ((dividend < 0) ^ (divisor < 0)) else res
+class Solution2:
+    """ 2. Bit-Manipulation """
 
-    def _unsigned_divide(self, dividend, divisor):
-        dividend = abs(dividend)
-        divisor = abs(divisor)
+    def divide(self, dividend, divisor):
+        if dividend == -2**31 and divisor == 11:
+            return 2**31-1
+        factor = -1 if (dividend < 0) ^ (divisor < 0) else 1
+        dividend, divisor = abs(dividend), abs(divisor)
         count = 0
-        while(dividend >= divisor):
-            local_count = 1
-            copy_of_divisor = divisor
-            while(dividend > (copy_of_divisor << 1)):
-                copy_of_divisor <<= 1
-                local_count <<= 1
-            count += local_count
-            dividend -= copy_of_divisor
-        return count
+        while dividend >= divisor:
+            for x in range(32)[::-1]:
+                if dividend >> x >= divisor:
+                    dividend -= divisor << x
+                    count += 1 << x
+        return count * factor
+
 
 if __name__ == "__main__":
-    dividend = 4
-    divisor = 2
-    res = Solution().divide(dividend, divisor)
+    dividend = -17
+    divisor = 3
+    res = Solution2().divide(dividend, divisor)
     print(res)

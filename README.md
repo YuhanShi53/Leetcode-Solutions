@@ -87,6 +87,7 @@ optimized and gentle solutions.
 
 ### Bit-Manipulation
 
+- [Leetcode 29](solutions/leetcode_29.py)
 - [Leetcode 191](solutions/leetcode_191.py)
 - [Leetcode 289](solutions/leetcode_289.py)
 - [Leetcode 389](solutions/leetcode_389.py)
@@ -150,6 +151,7 @@ optimized and gentle solutions.
 
 ### Math
 
+- [Leetcode 29](solutions/leetcode_29.py)
 - [Leetcode 413](solutions/leetcode_413.py)
 - [Leetcode 593](solutions/leetcode_593.py)
 - [Leetcode 1680](solutions/leetcode_1680.py)
