@@ -149,6 +149,7 @@ optimized and gentle solutions.
 - [Leetcode 82](solutions/leetcode_82.py)
 - [Leetcode 83](solutions/leetcode_83.py)
 - [Leetcode 141](solutions/leetcode_141.py)
+- [Leetcode 160](solution/leetcode_160.py)
 
 ### Math
 
