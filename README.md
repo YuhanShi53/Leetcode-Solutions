@@ -74,6 +74,7 @@ optimized and gentle solutions.
 ### BFS
 
 - [Leetcode 623](solutions/leetcode_623.py)
+- [Leetcode 637](solutions/leetcode_637.py)
 - [Leetcode 994](solutions/leetcode_994.py)
 - [Leetcode 1022](solutions/leetcode_1022.py)
 
@@ -145,6 +146,7 @@ optimized and gentle solutions.
 ### Iteration
 
 - [Leetcode 623](solutions/leetcode_623.py)
+- [Leetcode 637](solutions/leetcode_637.py)
 
 ### Kadane
 
@@ -215,6 +217,7 @@ optimized and gentle solutions.
 - [Leetcode 173](solutions/leetcode_173.py)
 - [Leetcode 538](solutions/leetcode_538.py)
 - [Leetcode 623](solutions/leetcode_623.py)
+- [Leetcode 637](solutions/leetcode_637.py)
 - [Leetcode 1022](solutions/leetcode_1022.py)
 - [Leetcode 1457](solutions/leetcode_1457.py)
 
