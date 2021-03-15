@@ -98,6 +98,10 @@ optimized and gentle solutions.
 - [Leetcode 1457](solutions/leetcode_1457.py)
 - [Leetcode 1680](solutions/leetcode_1680.py)
 
+### Design
+
+- [Leetcode 535](solutions/leetcode_535.py)
+
 ### DFS
 
 - [Leetcode 216](solutions/leetcode_216.py)
