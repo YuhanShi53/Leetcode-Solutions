@@ -73,6 +73,7 @@ optimized and gentle solutions.
 
 ### BFS
 
+- [Leetcode 322](solutions/leetcode_322.py)
 - [Leetcode 623](solutions/leetcode_623.py)
 - [Leetcode 637](solutions/leetcode_637.py)
 - [Leetcode 994](solutions/leetcode_994.py)
@@ -113,6 +114,7 @@ optimized and gentle solutions.
 - [Leetcode 139](solutions/leetcode_139.py)
 - [Leetcode 152](solutions/leetcode_152.py)
 - [Leetcode 198](solutions/leetcode_198.py)
+- [Leetcode 322](solutions/leetcode_322.py)
 - [Leetcode 413](solutions/leetcode_413.py)
 - [Leetcode 821](solutions/leetcode_821.py)
 - [Leetcode 983](solutions/leetcode_983.py)
@@ -158,7 +160,8 @@ optimized and gentle solutions.
 - [Leetcode 82](solutions/leetcode_82.py)
 - [Leetcode 83](solutions/leetcode_83.py)
 - [Leetcode 141](solutions/leetcode_141.py)
-- [Leetcode 160](solution/leetcode_160.py)
+- [Leetcode 160](solutions/leetcode_160.py)
+- [Leetcode 1721](solutions/leetcode_1721.py)
 
 ### Math
 
