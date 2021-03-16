@@ -121,6 +121,7 @@ optimized and gentle solutions.
 - [Leetcode 198](solutions/leetcode_198.py)
 - [Leetcode 322](solutions/leetcode_322.py)
 - [Leetcode 413](solutions/leetcode_413.py)
+- [Leetcode 714](solutions/leetcode_714.py)
 - [Leetcode 821](solutions/leetcode_821.py)
 - [Leetcode 983](solutions/leetcode_983.py)
 - [Leetcode 1641](solutions/leetccode_1641.py)
@@ -128,6 +129,7 @@ optimized and gentle solutions.
 ### Greedy
 
 - [Leetcode 134](solutions/leetcode_134.py)
+- [Leetcode 714](solutions/leetcode_714.py)
 - [Leetcode 763](solutions/leetcode_763.py)
 - [Leetcode 991](solutions/leetcode_991.py)
 - [Leetcode 1663](solutions/leetcode_1663.py)
