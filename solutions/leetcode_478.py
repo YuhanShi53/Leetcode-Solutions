@@ -1,4 +1,4 @@
-""" Leetcode 478 - Generate Random Poinnt In A Circle
+""" Leetcode 478 - Generate Random Point In A Circle
 
 https://leetcode.com/problems/generate-random-point-in-a-circle/
 
