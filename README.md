@@ -176,6 +176,7 @@ optimized and gentle solutions.
 - [Leetcode 83](solutions/leetcode_83.py)
 - [Leetcode 141](solutions/leetcode_141.py)
 - [Leetcode 160](solutions/leetcode_160.py)
+- [Leetcode 234](solutions/leetcode_234.py)
 - [Leetcode 1721](solutions/leetcode_1721.py)
 
 ### Math
@@ -225,6 +226,7 @@ optimized and gentle solutions.
 ### Two Pointer
 
 - [Leetcode 141](solutions/leetcode_141.py)
+- [Leetcode 234](solutions/leetcode_234.py)
 - [Leetcode 763](solutions/leetcode_763.py)
 - [Leetcode 881](solutions/leetcode_881.py)
 - [Leetcode 941](solutions/leetcode_941.py)
