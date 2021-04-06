@@ -9,6 +9,8 @@ also appended under my own solutions, but are not promised to be the
 optimizations. Please head to Leetcode discussion if you are looking for
 optimized and gentle solutions.
 
+*The repository is on-working to contain solution written in C++ and Java. Solutions written in different language will separated to folders w.r.t Leetcode id.*
+
 ## Unsolved
 
 - contest_leetcode_5211
@@ -253,4 +255,5 @@ optimized and gentle solutions.
 ## Note
 
 - `MINE` mark the self-implement solution.
+- `SPECIFIC` mark the solution which is specific to the problem and may not be generalized to other problems.
 - Unmerged branch indicate the problems to be solved or optimized.
