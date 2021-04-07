@@ -119,6 +119,7 @@ optimized and gentle solutions.
 
 ### Dynamic Processing
 
+- [Leetcode 32](solutions/Leetcode_32)
 - [Leetcode 91](solutions/leetcode_91.py)
 - [Leetcode 121](solutions/leetcode_121.py)
 - [Leetcode 139](solutions/leetcode_139.py)
@@ -131,7 +132,7 @@ optimized and gentle solutions.
 - [Leetcode 714](solutions/leetcode_714.py)
 - [Leetcode 821](solutions/leetcode_821.py)
 - [Leetcode 983](solutions/leetcode_983.py)
-- [Leetcode 1641](solutions/leetccode_1641.py)
+- [Leetcode 1641](solutions/leetcode_1641.py)
 
 ### Greedy
 
