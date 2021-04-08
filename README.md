@@ -258,3 +258,8 @@ optimized and gentle solutions.
 - `MINE` mark the self-implement solution.
 - `SPECIFIC` mark the solution which is specific to the problem and may not be generalized to other problems.
 - Unmerged branch indicate the problems to be solved or optimized.
+
+## README Template
+
+| Solution ID | Tag | Time | Memory | Note |
+| ----------- | --- | ---- | ------ | ---- |
