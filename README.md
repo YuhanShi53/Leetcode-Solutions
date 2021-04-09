@@ -107,6 +107,7 @@ optimized and gentle solutions.
 
 ### DFS
 
+- [Leetcode 17](solutions/Leetcode_17/)
 - [Leetcode 216](solutions/leetcode_216.py)
 - [Leetcode 322](solutions/leetcode_322.py)
 - [Leetcode 538](solutions/leetcode_538.py)
@@ -151,6 +152,7 @@ optimized and gentle solutions.
 - [Leetcode 706](solutions/leetcode_706.py)
 - [Leetcode 895](solutions/leetcode_895.py)
 - [Leetcode 916](solutions/leetcode_916.py)
+- [Leetcode 953](solutions/Leetcode_953/)
 - [Leetcode 966](solutions/leetcode_966.py)
 - [Leetcode 1657](solutions/leetcode_1657.py)
 - [Leetcode 1679](solutions/leetcode_1679.py)
@@ -163,10 +165,6 @@ optimized and gentle solutions.
 
 - [Leetcode 57](solutions/leetcode_57.py)
 
-### Iteration
-
-- [Leetcode 623](solutions/leetcode_623.py)
-- [Leetcode 637](solutions/leetcode_637.py)
 
 ### Kadane
 
@@ -203,6 +201,7 @@ optimized and gentle solutions.
 
 ### Recursive
 
+- [Leetcode 17](solutions/Leetcode_17/)
 - [Leetcode 538](solutions/leetcode_538.py)
 - [Leetcode 623](solutions/leetcode_623.py)
 - [Leetcode 1206](solutions/leetcode_1206.py)
