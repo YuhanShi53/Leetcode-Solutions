@@ -104,6 +104,7 @@ optimized and gentle solutions.
 
 ### Design
 
+- [Leetcode 341](solutions/Leetcode_341/)
 - [Leetcode 535](solutions/leetcode_535.py)
 
 ### DFS
