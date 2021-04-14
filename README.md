@@ -104,7 +104,6 @@ optimized and gentle solutions.
 
 ### Design
 
-- [Leetcode 341](solutions/Leetcode_341/)
 - [Leetcode 535](solutions/leetcode_535.py)
 
 ### DFS
@@ -167,7 +166,6 @@ optimized and gentle solutions.
 
 - [Leetcode 57](solutions/leetcode_57.py)
 
-
 ### Kadane
 
 - [Leetcode 121](solutions/leetcode_121.py)
@@ -177,6 +175,7 @@ optimized and gentle solutions.
 - [Leetcode 21](solutions/leetcode_21.py)
 - [Leetcode 82](solutions/leetcode_82.py)
 - [Leetcode 83](solutions/leetcode_83.py)
+- [Leetcode 86](solutions/Leetcode_86/)
 - [Leetcode 141](solutions/leetcode_141.py)
 - [Leetcode 160](solutions/leetcode_160.py)
 - [Leetcode 234](solutions/leetcode_234.py)
