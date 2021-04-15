@@ -1,4 +1,4 @@
-from solutions.common import ListNode
+from python import ListNode
 
 
 class Solution1:
