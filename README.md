@@ -212,6 +212,7 @@ optimized and gentle solutions.
 ### Stack
 
 - [Leetcode 20](solutions/leetcode_20.py)
+- [Leetcode 589](solutions/Leetcode_589)
 - [Leetcode 856](solutions/leetcode_856.py)
 - [Leetcode 895](solutions/leetcode_895.py)
 - [Leetcode 946](solutions/leetcode_946.py)
@@ -242,6 +243,7 @@ optimized and gentle solutions.
 
 - [Leetcode 173](solutions/leetcode_173.py)
 - [Leetcode 538](solutions/leetcode_538.py)
+- [Leetcode 589](solutions/Leetcode_589)
 - [Leetcode 623](solutions/leetcode_623.py)
 - [Leetcode 637](solutions/leetcode_637.py)
 - [Leetcode 971](solutions/leetcode_971.py)
