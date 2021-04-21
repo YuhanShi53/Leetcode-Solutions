@@ -123,6 +123,7 @@ optimized and gentle solutions.
 
 - [Leetcode 32](solutions/Leetcode_32)
 - [Leetcode 91](solutions/leetcode_91.py)
+- [Leetcode 120](solutions/Leetcode_120/)
 - [Leetcode 121](solutions/leetcode_121.py)
 - [Leetcode 139](solutions/leetcode_139.py)
 - [Leetcode 152](solutions/leetcode_152.py)
