@@ -151,6 +151,7 @@ optimized and gentle solutions.
 
 - [Leetcode 13](solutions/leetcode_19.py)
 - [Leetcode 389](solutions/leetcode_389.py)
+- [Leetcode 554](solutions/Leetcode/)
 - [Leetcode 594](solutions/leetcode_594.py)
 - [Leetcode 706](solutions/leetcode_706.py)
 - [Leetcode 895](solutions/leetcode_895.py)
