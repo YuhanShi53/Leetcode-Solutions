@@ -161,6 +161,10 @@ optimized and gentle solutions.
 - [Leetcode 1657](solutions/leetcode_1657.py)
 - [Leetcode 1679](solutions/leetcode_1679.py)
 
+### Heap
+
+- [Leetcode 1642](solutions/Leetcode_1642/)
+
 ### Inorder Traversal
 
 - [Leetcode 173](solutions/leetcode_173.py)
@@ -187,6 +191,7 @@ optimized and gentle solutions.
 ### Math
 
 - [Leetcode 29](solutions/leetcode_29.py)
+- [Leetcode 326](solutions/Leetcode_326/)
 - [Leetcode 413](solutions/leetcode_413.py)
 - [Leetcode 478](solutions/leetcode_478.py)
 - [Leetcode 593](solutions/leetcode_593.py)
