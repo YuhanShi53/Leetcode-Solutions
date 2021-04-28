@@ -122,6 +122,7 @@ optimized and gentle solutions.
 ### Dynamic Processing
 
 - [Leetcode 32](solutions/Leetcode_32)
+- [Leetcode 63](solutions/Leetcode_63/)
 - [Leetcode 91](solutions/leetcode_91.py)
 - [Leetcode 120](solutions/Leetcode_120/)
 - [Leetcode 121](solutions/leetcode_121.py)
