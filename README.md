@@ -85,6 +85,7 @@ optimized and gentle solutions.
 
 ### Binary Search
 
+- [Leetcode 34](solutions/Leetcode_34/)
 - [Leetcode 240](solutions/leetcode_240.py)
 - [Leetcode 1539](solutions/leetcode_1539.py)
 
@@ -118,6 +119,10 @@ optimized and gentle solutions.
 - [Leetcode 980](solutions/leetcode_980.py)
 - [Leetcode 1206](solutions/leetcode_1206.py)
 - [Leetcode 1457](solutions/leetcode_1457.py)
+
+### Divide and Conquer
+
+- [Leetcode 34](solutions/Leetcode_34/)
 
 ### Dynamic Processing
 
