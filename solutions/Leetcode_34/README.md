@@ -3,4 +3,4 @@
 | Solution ID | Tag | Time | Memory | Note |
 | ----------- | --- | ---- | ------ | ---- |
 | 1 | Binary Search | O(logn) | O(1) | n is length of nums |
-| 2 | Binary Search, Divide and Conquer | O(logn) | O(1) | n is length of nums |
+| 2 | Binary Search, Divide and Conquer | O(logn) | O(1) | n is length of nums | Borrow from: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/14707/9-11-lines-O(log-n) |
