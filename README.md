@@ -75,6 +75,7 @@ optimized and gentle solutions.
 
 ### BFS
 
+- [Leetcode 45](solutions/Leetcode_45/)
 - [Leetcode 322](solutions/leetcode_322.py)
 - [Leetcode 623](solutions/leetcode_623.py)
 - [Leetcode 637](solutions/leetcode_637.py)
