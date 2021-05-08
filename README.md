@@ -76,6 +76,7 @@ optimized and gentle solutions.
 ### BFS
 
 - [Leetcode 45](solutions/Leetcode_45/)
+- [Leetcode 109](solutions/Leetcode_109/)
 - [Leetcode 322](solutions/leetcode_322.py)
 - [Leetcode 623](solutions/leetcode_623.py)
 - [Leetcode 637](solutions/leetcode_637.py)
@@ -220,6 +221,7 @@ optimized and gentle solutions.
 ### Recursive
 
 - [Leetcode 17](solutions/Leetcode_17/)
+- [Leetcode 109](solutions/Leetcode_109/)
 - [Leetcode 377](solutions/Leetcode_377/)
 - [Leetcode 538](solutions/leetcode_538.py)
 - [Leetcode 623](solutions/leetcode_623.py)
