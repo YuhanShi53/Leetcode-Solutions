@@ -139,6 +139,7 @@ optimized and gentle solutions.
 - [Leetcode 376](solutions/leetcode_376.py)
 - [Leetcode 377](solutions/Leetcode_377/)
 - [Leetcode 413](solutions/leetcode_413.py)
+- [Leetcode 583](solutions/Leetcode_583.py/)
 - [Leetcode 647](solutions/leetcode_647.py)
 - [Leetcode 714](solutions/leetcode_714.py)
 - [Leetcode 821](solutions/leetcode_821.py)
