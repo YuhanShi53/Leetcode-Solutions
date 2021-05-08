@@ -218,6 +218,10 @@ optimized and gentle solutions.
 - [Leetcode 503](solutions/leetcode_503.py)
 - [Leetcode 739](solutions/leetcode_739.py)
 
+### Palindrome
+
+- [Leetcode 906](solutions/Leetcode_906/)
+
 ### Recursive
 
 - [Leetcode 17](solutions/Leetcode_17/)
