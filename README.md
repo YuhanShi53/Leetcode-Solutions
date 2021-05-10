@@ -173,6 +173,7 @@ optimized and gentle solutions.
 
 ### Heap
 
+- [Leetcode 1354](solutions/Leetcode_1354/)
 - [Leetcode 1642](solutions/Leetcode_1642/)
 
 ### Inorder Traversal
