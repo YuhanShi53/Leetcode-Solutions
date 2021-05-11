@@ -145,6 +145,7 @@ optimized and gentle solutions.
 - [Leetcode 714](solutions/leetcode_714.py)
 - [Leetcode 821](solutions/leetcode_821.py)
 - [Leetcode 983](solutions/leetcode_983.py)
+- [Leetcode 1423](solutions/Leetcode_1423/)
 - [Leetcode 1641](solutions/leetcode_1641.py)
 
 ### Greedy
@@ -231,6 +232,11 @@ optimized and gentle solutions.
 - [Leetcode 538](solutions/leetcode_538.py)
 - [Leetcode 623](solutions/leetcode_623.py)
 - [Leetcode 1206](solutions/leetcode_1206.py)
+
+
+### Sliding window
+
+- [Leetcode 1423](solutions/Leetcode_1423/)
 
 ### Stack
 
