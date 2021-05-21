@@ -226,6 +226,10 @@ optimized and gentle solutions.
 - [Leetcode 503](solutions/leetcode_503.py)
 - [Leetcode 739](solutions/leetcode_739.py)
 
+### Pattern match
+
+- [Leetcode 890](solutions/Leetcode_890/)
+
 ### Palindrome
 
 - [Leetcode 906](solutions/Leetcode_906/)
