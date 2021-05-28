@@ -102,6 +102,7 @@ optimized and gentle solutions.
 - [Leetcode 191](solutions/leetcode_191.py)
 - [Leetcode 268](solutions/leetcode_268.py)
 - [Leetcode 289](solutions/leetcode_289.py)
+- [Leetcode 318](solutions/Leetcode_318/)
 - [Leetcode 389](solutions/leetcode_389.py)
 - [Leetcode 1457](solutions/leetcode_1457.py)
 - [Leetcode 1680](solutions/leetcode_1680.py)
@@ -165,6 +166,7 @@ optimized and gentle solutions.
 ### Hash Map
 
 - [Leetcode 13](solutions/leetcode_19.py)
+- [Leetcode 318](solutions/Leetcode_318/)
 - [Leetcode 389](solutions/leetcode_389.py)
 - [Leetcode 554](solutions/Leetcode/)
 - [Leetcode 594](solutions/leetcode_594.py)
