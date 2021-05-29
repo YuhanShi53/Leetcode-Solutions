@@ -179,6 +179,7 @@ optimized and gentle solutions.
 - [Leetcode 1048](solutions/Leetcode_1048/)
 - [Leetcode 1657](solutions/leetcode_1657.py)
 - [Leetcode 1679](solutions/leetcode_1679.py)
+- [Leetcode 1695](solutions/Leetcode_1695/)
 
 ### Heap
 
@@ -281,6 +282,7 @@ optimized and gentle solutions.
 - [Leetcode 941](solutions/leetcode_941.py)
 - [Leetcode 977](solutions/leetcode_977.py)
 - [Leetcode 1658](solutions/leetcode_1658.py)
+- [Leetcode 1695](solutions/Leetcode_1695/)
 
 ### Tree
 
