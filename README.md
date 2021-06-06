@@ -169,6 +169,7 @@ optimized and gentle solutions.
 ### Hash Map
 
 - [Leetcode 13](solutions/leetcode_19.py)
+- [Leetcode 128](solutions/Leetcode_128/)
 - [Leetcode 318](solutions/Leetcode_318/)
 - [Leetcode 389](solutions/leetcode_389.py)
 - [Leetcode 554](solutions/Leetcode/)
