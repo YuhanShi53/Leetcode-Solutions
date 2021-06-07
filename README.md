@@ -81,6 +81,7 @@ optimized and gentle solutions.
 - [Leetcode 322](solutions/leetcode_322.py)
 - [Leetcode 623](solutions/leetcode_623.py)
 - [Leetcode 637](solutions/leetcode_637.py)
+- [Leetcode 752](solutions/Leetcode_752/)
 - [Leetcode 841](solutions/leetcode_841.py)
 - [Leetcode 994](solutions/leetcode_994.py)
 - [Leetcode 1022](solutions/leetcode_1022.py)
