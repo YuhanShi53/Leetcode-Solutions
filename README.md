@@ -151,6 +151,7 @@ optimized and gentle solutions.
 - [Leetcode 583](solutions/Leetcode_583.py/)
 - [Leetcode 647](solutions/leetcode_647.py)
 - [Leetcode 714](solutions/leetcode_714.py)
+- [Leetcode 746](solutions/Leetcode_746/)
 - [Leetcode 821](solutions/leetcode_821.py)
 - [Leetcode 983](solutions/leetcode_983.py)
 - [Leetcode 1048](solutions/Leetcode_1048/)
