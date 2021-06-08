@@ -171,6 +171,7 @@ optimized and gentle solutions.
 ### Hash Map
 
 - [Leetcode 13](solutions/leetcode_19.py)
+- [Leetcode 105](solutions/Leetcode_105/)
 - [Leetcode 128](solutions/Leetcode_128/)
 - [Leetcode 318](solutions/Leetcode_318/)
 - [Leetcode 389](solutions/leetcode_389.py)
@@ -247,6 +248,7 @@ optimized and gentle solutions.
 ### Recursive
 
 - [Leetcode 17](solutions/Leetcode_17/)
+- [Leetcode 105](solutions/Leetcode_105/)
 - [Leetcode 109](solutions/Leetcode_109/)
 - [Leetcode 377](solutions/Leetcode_377/)
 - [Leetcode 538](solutions/leetcode_538.py)
@@ -293,6 +295,7 @@ optimized and gentle solutions.
 
 ### Tree
 
+- [Leetcode 105](solutions/Leetcode_105/)
 - [Leetcode 173](solutions/leetcode_173.py)
 - [Leetcode 538](solutions/leetcode_538.py)
 - [Leetcode 589](solutions/Leetcode_589)
