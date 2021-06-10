@@ -108,6 +108,10 @@ optimized and gentle solutions.
 - [Leetcode 1457](solutions/leetcode_1457.py)
 - [Leetcode 1680](solutions/leetcode_1680.py)
 
+### Deque
+
+- [Leetcode 1696](solutions/Leetcode_1696/)
+
 ### Design
 
 - [Leetcode 535](solutions/leetcode_535.py)
@@ -157,6 +161,7 @@ optimized and gentle solutions.
 - [Leetcode 1048](solutions/Leetcode_1048/)
 - [Leetcode 1423](solutions/Leetcode_1423/)
 - [Leetcode 1641](solutions/leetcode_1641.py)
+- [Leetcode 1696](solutions/Leetcode_1696/)
 
 ### Greedy
 
@@ -192,6 +197,7 @@ optimized and gentle solutions.
 
 - [Leetcode 1354](solutions/Leetcode_1354/)
 - [Leetcode 1642](solutions/Leetcode_1642/)
+- [Leetcode 1696](solutions/Leetcode_1696/)
 
 ### Inorder Traversal
 
