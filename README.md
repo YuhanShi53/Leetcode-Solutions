@@ -91,6 +91,7 @@ optimized and gentle solutions.
 
 - [Leetcode 34](solutions/Leetcode_34/)
 - [Leetcode 240](solutions/leetcode_240.py)
+- [Leetcode 729](solutions/Leetcode_729/)
 - [Leetcode 1539](solutions/leetcode_1539.py)
 
 ### Binary Search Tree
