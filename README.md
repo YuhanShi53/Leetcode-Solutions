@@ -158,6 +158,7 @@ optimized and gentle solutions.
 - [Leetcode 714](solutions/leetcode_714.py)
 - [Leetcode 746](solutions/Leetcode_746/)
 - [Leetcode 821](solutions/leetcode_821.py)
+- [Leetcode 871](solutions/Leetcode_871/)
 - [Leetcode 983](solutions/leetcode_983.py)
 - [Leetcode 1048](solutions/Leetcode_1048/)
 - [Leetcode 1423](solutions/Leetcode_1423/)
@@ -196,6 +197,7 @@ optimized and gentle solutions.
 
 ### Heap
 
+- [Leetcode 871](solutions/Leetcode_871/)
 - [Leetcode 1354](solutions/Leetcode_1354/)
 - [Leetcode 1642](solutions/Leetcode_1642/)
 - [Leetcode 1696](solutions/Leetcode_1696/)
