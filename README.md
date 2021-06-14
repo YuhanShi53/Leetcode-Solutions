@@ -163,6 +163,7 @@ optimized and gentle solutions.
 - [Leetcode 1048](solutions/Leetcode_1048/)
 - [Leetcode 1423](solutions/Leetcode_1423/)
 - [Leetcode 1641](solutions/leetcode_1641.py)
+- [Leetcode 1690](solutions/Leetcode_1690/)
 - [Leetcode 1696](solutions/Leetcode_1696/)
 
 ### Greedy
