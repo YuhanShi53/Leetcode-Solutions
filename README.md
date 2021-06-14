@@ -283,6 +283,7 @@ optimized and gentle solutions.
 ### Sort
 
 - [Leetcode 977](solutions/leetcode_977.py)
+- [Leetcode 1710](solutions/Leetcode_1710/)
 
 ### Sort(Linked List)
 
