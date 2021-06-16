@@ -1,4 +1,5 @@
 #include <algorithm>
+#include <functional>
 #include <numeric>
 #include <vector>
 
@@ -13,7 +14,7 @@ public:
         if (sum % 4)
             return false;
         vector<int> targets(4, sum / 4);
-        sort(matchsticks.begin(), matchsticks.end());
+        sort(matchsticks.begin(), matchsticks.end(), greater<int>());
         return dfs(matchsticks, targets, 0);
     }
 
