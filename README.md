@@ -120,6 +120,7 @@ optimized and gentle solutions.
 ### DFS
 
 - [Leetcode 17](solutions/Leetcode_17/)
+- [Leetcode 22](solutions/Leetcode_22/)
 - [Leetcode 97](solutions/Leetcode_97/)
 - [Leetcode 216](solutions/leetcode_216.py)
 - [Leetcode 322](solutions/leetcode_322.py)
