@@ -269,6 +269,9 @@ optimized and gentle solutions.
 - [Leetcode 695](solutions/Leetcode_695/)
 - [Leetcode 1206](solutions/leetcode_1206.py)
 
+### Segment Tree
+
+- [Leetcode 307](solutions/Leetcode_307/)
 
 ### Sliding window
 

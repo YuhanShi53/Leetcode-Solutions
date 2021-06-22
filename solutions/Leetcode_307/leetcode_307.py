@@ -29,10 +29,13 @@ class NumArray1:
 
     def update(self, index: int, val: int) -> None:
         diff = val - self._nums[index]
+        self._nums[index] = val
 
         def update_util(node):
             if node.start <= index <= node.end:
                 node.total += diff
+            if node.start == node.end:
+                return
             mid = (node.start+node.end) // 2
             if index <= mid:
                 update_util(node.left)
@@ -47,7 +50,7 @@ class NumArray1:
                 return node.total
             mid = (node.start + node.end) // 2
             if right <= mid:
-                return sum_range_util(node, left, start, end)
+                return sum_range_util(node.left, start, end)
             elif mid < start:
                 return sum_range_util(node.right, start, end)
             else:
