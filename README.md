@@ -70,6 +70,7 @@ optimized and gentle solutions.
 
 ### Backtracking
 
+- [Leetcode 89](solutions/Leetcode_89.py)
 - [Leetcode 216](solutions/leetcode_216.py)
 - [Leetcode 980](solutions/leetcode_980.py)
 
@@ -101,6 +102,7 @@ optimized and gentle solutions.
 ### Bit-Manipulation
 
 - [Leetcode 29](solutions/leetcode_29.py)
+- [Leetcode 89](solutions/Leetcode_89.py)
 - [Leetcode 191](solutions/leetcode_191.py)
 - [Leetcode 268](solutions/leetcode_268.py)
 - [Leetcode 289](solutions/leetcode_289.py)
@@ -285,6 +287,7 @@ optimized and gentle solutions.
 - [Leetcode 856](solutions/leetcode_856.py)
 - [Leetcode 895](solutions/leetcode_895.py)
 - [Leetcode 946](solutions/leetcode_946.py)
+- [Leetcode 1047](solutions/Leetcode_1047/)
 
 ### Sort
 
