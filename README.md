@@ -92,6 +92,7 @@ optimized and gentle solutions.
 
 - [Leetcode 34](solutions/Leetcode_34/)
 - [Leetcode 240](solutions/leetcode_240.py)
+- [Leetcode 658](solutions/Leetcode_658/)
 - [Leetcode 729](solutions/Leetcode_729/)
 - [Leetcode 1539](solutions/leetcode_1539.py)
 
@@ -259,6 +260,10 @@ optimized and gentle solutions.
 ### Palindrome
 
 - [Leetcode 906](solutions/Leetcode_906/)
+
+### Queue
+
+- [Leetcode 658](solutions/Leetcode_658/)
 
 ### Recursive
 
