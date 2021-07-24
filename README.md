@@ -318,6 +318,7 @@ optimized and gentle solutions.
 - [Leetcode 589](solutions/Leetcode_589)
 - [Leetcode 623](solutions/leetcode_623.py)
 - [Leetcode 637](solutions/leetcode_637.py)
+- [Leetcode 814](solutions/Leetcode_814/)
 - [Leetcode 971](solutions/leetcode_971.py)
 - [Leetcode 1022](solutions/leetcode_1022.py)
 - [Leetcode 1302](solutions/Leetcode_1302/)
