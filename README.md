@@ -193,6 +193,7 @@ optimized and gentle solutions.
 - [Leetcode 389](solutions/leetcode_389.py)
 - [Leetcode 554](solutions/Leetcode/)
 - [Leetcode 594](solutions/leetcode_594.py)
+- [Leetcode 677](solutions/Leetcode_677/)
 - [Leetcode 706](solutions/leetcode_706.py)
 - [Leetcode 895](solutions/leetcode_895.py)
 - [Leetcode 916](solutions/leetcode_916.py)
@@ -331,10 +332,15 @@ optimized and gentle solutions.
 - [Leetcode 589](solutions/Leetcode_589)
 - [Leetcode 623](solutions/leetcode_623.py)
 - [Leetcode 637](solutions/leetcode_637.py)
+- [Leetcode 814](solutions/Leetcode_814/)
 - [Leetcode 971](solutions/leetcode_971.py)
 - [Leetcode 1022](solutions/leetcode_1022.py)
 - [Leetcode 1302](solutions/Leetcode_1302/)
 - [Leetcode 1457](solutions/leetcode_1457.py)
+
+### Trie
+
+- [Leetcode 677](solutions/Leetcode_677/)
 
 ### Union Find
 
