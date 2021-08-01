@@ -18,6 +18,7 @@ optimized and gentle solutions.
 - leetcode_123 (2020.08.18)
 - leetcode_165 (2020.09.11)
 - leetcode_229 (2020.09.24)
+- Leetcode 126
 
 ## Wait for Noted
 
@@ -65,6 +66,8 @@ optimized and gentle solutions.
 - leetcode_1291
 - leetcode_189
 - leetcode 310
+- Leetcode 827
+- Leetcode 42
 
 ## Category
 
