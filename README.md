@@ -67,7 +67,6 @@ optimized and gentle solutions.
 - leetcode_189
 - leetcode 310
 - Leetcode 827
-- Leetcode 42
 
 ## Category
 
@@ -317,6 +316,7 @@ optimized and gentle solutions.
 
 ### Two Pointer
 
+- [Leetcode 42](solutions/Leetcode_42/)
 - [Leetcode 141](solutions/leetcode_141.py)
 - [Leetcode 234](solutions/leetcode_234.py)
 - [Leetcode 763](solutions/leetcode_763.py)
