@@ -2,6 +2,13 @@ from collections import defaultdict, deque
 from typing import List
 
 
+class Solution1:
+    def largest_island(self, grid: List[List[int]]) -> int:
+        
+    def dfs(self, x, y, index):
+        
+
+
 class SolutionMINE:
     def largest_island(self, grid: List[List[int]]):
         zeros_adjacency = defaultdict(int)
