@@ -127,6 +127,7 @@ optimized and gentle solutions.
 
 - [Leetcode 17](solutions/Leetcode_17/)
 - [Leetcode 22](solutions/Leetcode_22/)
+- [Leetcode 90](solutions/Leetcode_90/)
 - [Leetcode 97](solutions/Leetcode_97/)
 - [Leetcode 108](solutions/Leetcode_108/)
 - [Leetcode 216](solutions/leetcode_216.py)
