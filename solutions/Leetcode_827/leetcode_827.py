@@ -3,10 +3,42 @@ from typing import List
 
 
 class Solution1:
+    directions = ((1, 0), (0, 1), (-1, 0), (0, -1))
+
     def largest_island(self, grid: List[List[int]]) -> int:
-        
-    def dfs(self, x, y, index):
-        
+        self._grid = grid
+        self._num_rows = len(grid)
+        self._num_cols = len(grid[0])
+        index = 2
+        zeros = []
+        index_area = {0: 0, 1: 0}
+        for i in range(self._num_rows):
+            for j in range(self._num_cols):
+                if grid[i][j] == 1:
+                    index_area[index] = self._dfs(i, j, index)
+                    index += 1
+                elif grid[i][j] == 0:
+                    zeros.append((i, j))
+        largest_area = max(index_area.values())
+        for x, y in zeros:
+            indices = set([grid[x+dx][y+dy] for dx, dy in Solution1.directions if self._check(x+dx, y+dy)])
+            largest_area = max(largest_area, 1+sum([index_area[i] for i in indices]))
+        return largest_area
+
+    def _dfs(self, x, y, index):
+        if self._check(x, y) and self._grid[x][y] == 1:
+            self._grid[x][y] = index
+            area = 1
+            for dx, dy in Solution1.directions:
+                area += self._dfs(x+dx, y+dy, index)
+        else:
+            area = 0
+        return area
+
+    def _check(self, x, y):
+        if 0 <= x < self._num_rows and 0 <= y < self._num_cols:
+            return True
+        return False
 
 
 class SolutionMINE:
