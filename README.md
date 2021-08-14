@@ -186,6 +186,12 @@ optimized and gentle solutions.
 [Leetcode 593]: (solutions/leetcode_593.py)
 [Leetcode 1680]: (solutions/leetcode_1680.py)
 
+### Matrix
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [73] | 
+
 ### Merge Interval
 
 [Leetcode 56]: (solutions/leetcode_56.py)
@@ -416,3 +422,4 @@ optimized and gentle solutions.
 [1642]: (solutions/Leetcode_1642/)
 [1696]: (solutions/Leetcode_1696/)
 [954]: (solutions/Leetcode_954/)
+[73]: (solutions/Leetcode 73/)
