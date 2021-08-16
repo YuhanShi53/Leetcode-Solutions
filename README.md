@@ -422,4 +422,4 @@ optimized and gentle solutions.
 [1642]: (solutions/Leetcode_1642/)
 [1696]: (solutions/Leetcode_1696/)
 [954]: (solutions/Leetcode_954/)
-[73]: (solutions/Leetcode 73/)
+[73]: (solutions/Leetcode_73/)
