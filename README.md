@@ -155,36 +155,33 @@ optimized and gentle solutions.
 
 ### Inorder Traversal
 
-[Leetcode 173]: (solutions/leetcode_173.py)
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [173] |
 
 ### Interval
 
-[Leetcode 57]: (solutions/leetcode_57.py)
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [57] |
 
 ### Kadane
 
-[Leetcode 121]: (solutions/leetcode_121.py)
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [121] |
 
 ### Linked List
 
-[Leetcode 21]: (solutions/leetcode_21.py)
-[Leetcode 82]: (solutions/leetcode_82.py)
-[Leetcode 83]: (solutions/leetcode_83.py)
-[Leetcode 86]: (solutions/Leetcode_86/)
-[Leetcode 141]: (solutions/leetcode_141.py)
-[Leetcode 160]: (solutions/leetcode_160.py)
-[Leetcode 234]: (solutions/leetcode_234.py)
-[Leetcode 1721]: (solutions/leetcode_1721.py)
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [21] | [82] | [83] | [86] | [141] | [160] | [234] | [1721] |
 
 ### Math
 
-[Leetcode 29]: (solutions/leetcode_29.py)
-[Leetcode 326]: (solutions/Leetcode_326/)
-[Leetcode 413]: (solutions/leetcode_413.py)
-[Leetcode 462]: (solutions/Leetcode_462/)
-[Leetcode 478]: (solutions/leetcode_478.py)
-[Leetcode 593]: (solutions/leetcode_593.py)
-[Leetcode 1680]: (solutions/leetcode_1680.py)
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [29] | [326] | [413] | [462] | [478] | [593] | [1680] |
 
 ### Matrix
 
@@ -194,106 +191,106 @@ optimized and gentle solutions.
 
 ### Merge Interval
 
-[Leetcode 56]: (solutions/leetcode_56.py)
-[Leetcode 88]: (solutions/leetcode_88.py)
-[Leetcode 754]: (solutions/leetcode_754.py)
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [56] | [88] | [754] |
 
 ### Mono Stack
 
-[Leetcode 503]: (solutions/leetcode_503.py)
-[Leetcode 739]: (solutions/leetcode_739.py)
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [503] | [739] |
 
 ### Pattern match
 
-[Leetcode 890]: (solutions/Leetcode_890/)
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [890] |
 
 ### Palindrome
 
-[Leetcode 906]: (solutions/Leetcode_906/)
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [906] |
+
+### Prefix Sum
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [303] |
 
 ### Queue
 
-[Leetcode 658]: (solutions/Leetcode_658/)
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [658] |
 
 ### Recursive
 
-[Leetcode 17]: (solutions/Leetcode_17/)
-[Leetcode 105]: (solutions/Leetcode_105/)
-[Leetcode 109]: (solutions/Leetcode_109/)
-[Leetcode 235]: (solutions/Leetcode_235/)
-[Leetcode 377]: (solutions/Leetcode_377/)
-[Leetcode 538]: (solutions/leetcode_538.py)
-[Leetcode 623]: (solutions/leetcode_623.py)
-[Leetcode 695]: (solutions/Leetcode_695/)
-[Leetcode 1206]: (solutions/leetcode_1206.py)
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [17] | [105] | [109] | [235] | [377] | [538] | [623] | [695] | [1206] |
 
 ### Segment Tree
 
-[Leetcode 307]: (solutions/Leetcode_307/)
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [307] |
 
 ### Sliding window
 
-[Leetcode 1423]: (solutions/Leetcode_1423/)
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [1423] |
 
 ### Stack
 
-[Leetcode 20]: (solutions/leetcode_20.py)
-[Leetcode 150]: (solutions/Leetcode_150/)
-[Leetcode 589]: (solutions/Leetcode_589)
-[Leetcode 856]: (solutions/leetcode_856.py)
-[Leetcode 895]: (solutions/leetcode_895.py)
-[Leetcode 946]: (solutions/leetcode_946.py)
-[Leetcode 1047]: (solutions/Leetcode_1047/)
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [20] | [150] | [589] | [856] | [895] | [946] | [1047] |
 
 ### Sort
 
-[Leetcode 977]: (solutions/leetcode_977.py)
-[Leetcode 1710]: (solutions/Leetcode_1710/)
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [977] | [1710] |
 
 ### Sort(Linked List)
 
-[Leetcode 147]: (solutions/leetcode_147.py)
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [147] |
 
 ### Two Pass
 
-[Leetcode 1249]: (solutions/leetcode_1249.py)
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [1249] |
 
 ### Two Pointer
 
-[Leetcode 42]: (solutions/Leetcode_42/)
-[Leetcode 141]: (solutions/leetcode_141.py)
-[Leetcode 234]: (solutions/leetcode_234.py)
-[Leetcode 763]: (solutions/leetcode_763.py)
-[Leetcode 881]: (solutions/leetcode_881.py)
-[Leetcode 941]: (solutions/leetcode_941.py)
-[Leetcode 977]: (solutions/leetcode_977.py)
-[Leetcode 1658]: (solutions/leetcode_1658.py)
-[Leetcode 1695]: (solutions/Leetcode_1695/)
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [42] | [141] | [234] | [763] | [881] | [941] | [977] | [1658] | [1695] |
 
 ### Tree
 
-[Leetcode 105]: (solutions/Leetcode_105/)
-[Leetcode 108]: (solutions/Leetcode_108/)
-[Leetcode 173]: (solutions/leetcode_173.py)
-[Leetcode 235]: (solutions/Leetcode_235/)
-[Leetcode 538]: (solutions/leetcode_538.py)
-[Leetcode 589]: (solutions/Leetcode_589)
-[Leetcode 623]: (solutions/leetcode_623.py)
-[Leetcode 637]: (solutions/leetcode_637.py)
-[Leetcode 814]: (solutions/Leetcode_814/)
-[Leetcode 971]: (solutions/leetcode_971.py)
-[Leetcode 1022]: (solutions/leetcode_1022.py)
-[Leetcode 1302]: (solutions/Leetcode_1302/)
-[Leetcode 1457]: (solutions/leetcode_1457.py)
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [105] | [108] | [173] | [235] | [538] | [589] | [623] | [637] | [814] | [971] |
+| [1022] | [1302] | [1457] |
 
 ### Trie
 
-[Leetcode 677]: (solutions/Leetcode_677/)
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [677] |
 
 ### Union Find
 
-[Leetcode 547]: (solutions/leetcode_547.py)
-[Leetcode 684]: (solutions/leetcode_684.py)
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [547] | [684] |
 
 ***
 
@@ -308,118 +305,140 @@ optimized and gentle solutions.
 | Solution ID | Tag | Time | Memory | Note |
 | ----------- | --- | ---- | ------ | ---- |
 
-[89]: (solutions/Leetcode_89.py)
-[216]: (solutions/leetcode_216.py)
-[980]: (solutions/leetcode_980.py)
-[45]: (solutions/Leetcode_45/)
-[102]: (solutions/Leetcode_102/)
-[109]: (solutions/Leetcode_109/)
-[322]: (solutions/leetcode_322.py)
-[429]: (solutions/Leetcode_429/)
-[542]: (solutions/Leetcode_542/)
-[623]: (solutions/leetcode_623.py)
-[637]: (solutions/leetcode_637.py)
-[752]: (solutions/Leetcode_752/)
-[841]: (solutions/leetcode_841.py)
-[994]: (solutions/leetcode_994.py)
-[1022]: (solutions/leetcode_1022.py)
-[1302]: (solutions/Leetcode_1302/)
-[34]: (solutions/Leetcode_34/)
-[240]: (solutions/leetcode_240.py)
-[658]: (solutions/Leetcode_658/)
-[729]: (solutions/Leetcode_729/)
-[1539]: (solutions/leetcode_1539.py)
-[538]: (solutions/leetcode_538.py)
-[29]: (solutions/leetcode_29.py)
-[89]: (solutions/Leetcode_89.py)
-[191]: (solutions/leetcode_191.py)
-[268]: (solutions/leetcode_268.py)
-[289]: (solutions/leetcode_289.py)
-[318]: (solutions/Leetcode_318/)
-[389]: (solutions/leetcode_389.py)
-[1457]: (solutions/leetcode_1457.py)
-[1680]: (solutions/leetcode_1680.py)
-[1696]: (solutions/Leetcode_1696/)
-[535]: (solutions/leetcode_535.py)
-[17]: (solutions/Leetcode_17/)
-[22]: (solutions/Leetcode_22/)
-[90]: (solutions/Leetcode_90/)
-[97]: (solutions/Leetcode_97/)
-[108]: (solutions/Leetcode_108/)
-[216]: (solutions/leetcode_216.py)
-[322]: (solutions/leetcode_322.py)
-[473]: (solutions/Leetcode_473/)
-[538]: (solutions/leetcode_538.py)
-[623]: (solutions/leetcode_623.py)
-[695]: (solutions/Leetcode_695/)
-[827]: (solutions/Leetcode_827/)
-[841]: (solutions/leetcode_841.py)
-[968]: (solutions/Leetcode_968/)
-[971]: (solutions/leetcode_971.py)
-[980]: (solutions/leetcode_980.py)
-[1206]: (solutions/leetcode_1206.py)
-[1457]: (solutions/leetcode_1457.py)
-[34]: (solutions/Leetcode_34/)
-[32]: (solutions/Leetcode_32)
-[63]: (solutions/Leetcode_63/)
-[91]: (solutions/leetcode_91.py)
-[97]: (solutions/Leetcode_97/)
-[120]: (solutions/Leetcode_120/)
-[121]: (solutions/leetcode_121.py)
-[132]: (solutions/Leetcode_132/)
-[139]: (solutions/leetcode_139.py)
-[152]: (solutions/leetcode_152.py)
-[198]: (solutions/leetcode_198.py)
-[304]: (solutions/Leetcode_304/)
-[322]: (solutions/leetcode_322.py)
-[376]: (solutions/leetcode_376.py)
-[377]: (solutions/Leetcode_377/)
-[413]: (solutions/leetcode_413.py)
-[583]: (solutions/Leetcode_583.py/)
-[647]: (solutions/leetcode_647.py)
-[714]: (solutions/leetcode_714.py)
-[746]: (solutions/Leetcode_746/)
-[795]: (solutions/Leetcode_795/)
-[821]: (solutions/leetcode_821.py)
-[871]: (solutions/Leetcode_871/)
-[877]: (solutions/Leetcode_877/)
-[926]: (solutions/Leetcode_926/)
-[983]: (solutions/leetcode_983.py)
-[1048]: (solutions/Leetcode_1048/)
-[1423]: (solutions/Leetcode_1423/)
-[1641]: (solutions/leetcode_1641.py)
-[1690]: (solutions/Leetcode_1690/)
-[1696]: (solutions/Leetcode_1696/)
-[134]: (solutions/leetcode_134.py)
-[376]: (solutions/leetcode_376.py)
-[714]: (solutions/leetcode_714.py)
-[763]: (solutions/leetcode_763.py)
-[991]: (solutions/leetcode_991.py)
-[1663]: (solutions/leetcode_1663.py)
-[1689]: (solutions/Leetcode_1689/)
+<!---Links--->
 [1]: (solutions/Leetcode_1/)
 [13]: (solutions/leetcode_19.py)
-[105]: (solutions/Leetcode_105/)
-[128]: (solutions/Leetcode_128/)
-[318]: (solutions/Leetcode_318/)
-[389]: (solutions/leetcode_389.py)
-[554]: (solutions/Leetcode/)
-[594]: (solutions/leetcode_594.py)
-[677]: (solutions/Leetcode_677/)
-[706]: (solutions/leetcode_706.py)
-[827]: (solutions/Leetcode_827/)
-[895]: (solutions/leetcode_895.py)
-[916]: (solutions/leetcode_916.py)
-[953]: (solutions/Leetcode_953/)
-[966]: (solutions/leetcode_966.py)
-[970]: (solutions/Leetcode_970/)
-[1048]: (solutions/Leetcode_1048/)
-[1657]: (solutions/leetcode_1657.py)
-[1679]: (solutions/leetcode_1679.py)
-[1695]: (solutions/Leetcode_1695/)
-[871]: (solutions/Leetcode_871/)
-[1354]: (solutions/Leetcode_1354/)
-[1642]: (solutions/Leetcode_1642/)
-[1696]: (solutions/Leetcode_1696/)
-[954]: (solutions/Leetcode_954/)
+[17]: (solutions/Leetcode_17/)
+[20]: (solutions/leetcode_20.py)
+[21]: (solutions/leetcode_21.py)
+[22]: (solutions/Leetcode_22/)
+[29]: (solutions/leetcode_29.py)
+[32]: (solutions/Leetcode_32)
+[34]: (solutions/Leetcode_34/)
+[42]: (solutions/Leetcode_42/)
+[45]: (solutions/Leetcode_45/)
+[56]: (solutions/leetcode_56.py)
+[57]: (solutions/leetcode_57.py)
+[63]: (solutions/Leetcode_63/)
 [73]: (solutions/Leetcode_73/)
+[82]: (solutions/leetcode_82.py)
+[83]: (solutions/leetcode_83.py)
+[86]: (solutions/Leetcode_86/)
+[88]: (solutions/leetcode_88.py)
+[89]: (solutions/Leetcode_89.py)
+[90]: (solutions/Leetcode_90/)
+[91]: (solutions/leetcode_91.py)
+[97]: (solutions/Leetcode_97/)
+[102]: (solutions/Leetcode_102/)
+[105]: (solutions/Leetcode_105/)
+[108]: (solutions/Leetcode_108/)
+[109]: (solutions/Leetcode_109/)
+[120]: (solutions/Leetcode_120/)
+[121]: (solutions/leetcode_121.py)
+[128]: (solutions/Leetcode_128/)
+[132]: (solutions/Leetcode_132/)
+[134]: (solutions/leetcode_134.py)
+[139]: (solutions/leetcode_139.py)
+[141]: (solutions/leetcode_141.py)
+[147]: (solutions/leetcode_147.py)
+[150]: (solutions/Leetcode_150/)
+[152]: (solutions/leetcode_152.py)
+[160]: (solutions/leetcode_160.py)
+[173]: (solutions/leetcode_173.py)
+[191]: (solutions/leetcode_191.py)
+[198]: (solutions/leetcode_198.py)
+[216]: (solutions/leetcode_216.py)
+[234]: (solutions/leetcode_234.py)
+[235]: (solutions/Leetcode_235/)
+[240]: (solutions/leetcode_240.py)
+[268]: (solutions/leetcode_268.py)
+[289]: (solutions/leetcode_289.py)
+[303]: (solutions/Leetcode_303/)
+[304]: (solutions/Leetcode_304/)
+[307]: (solutions/Leetcode_307/)
+[318]: (solutions/Leetcode_318/)
+[322]: (solutions/leetcode_322.py)
+[326]: (solutions/Leetcode_326/)
+[376]: (solutions/leetcode_376.py)
+[377]: (solutions/Leetcode_377/)
+[389]: (solutions/leetcode_389.py)
+[413]: (solutions/leetcode_413.py)
+[429]: (solutions/Leetcode_429/)
+[462]: (solutions/Leetcode_462/)
+[473]: (solutions/Leetcode_473/)
+[478]: (solutions/leetcode_478.py)
+[503]: (solutions/leetcode_503.py)
+[535]: (solutions/leetcode_535.py)
+[538]: (solutions/leetcode_538.py)
+[542]: (solutions/Leetcode_542/)
+[547]: (solutions/leetcode_547.py)
+[554]: (solutions/Leetcode/)
+[583]: (solutions/Leetcode_583.py/)
+[589]: (solutions/Leetcode_589)
+[593]: (solutions/leetcode_593.py)
+[594]: (solutions/leetcode_594.py)
+[623]: (solutions/leetcode_623.py)
+[637]: (solutions/leetcode_637.py)
+[647]: (solutions/leetcode_647.py)
+[658]: (solutions/Leetcode_658/)
+[677]: (solutions/Leetcode_677/)
+[684]: (solutions/leetcode_684.py)
+[695]: (solutions/Leetcode_695/)
+[706]: (solutions/leetcode_706.py)
+[714]: (solutions/leetcode_714.py)
+[729]: (solutions/Leetcode_729/)
+[739]: (solutions/leetcode_739.py)
+[746]: (solutions/Leetcode_746/)
+[752]: (solutions/Leetcode_752/)
+[754]: (solutions/leetcode_754.py)
+[763]: (solutions/leetcode_763.py)
+[795]: (solutions/Leetcode_795/)
+[814]: (solutions/Leetcode_814/)
+[821]: (solutions/leetcode_821.py)
+[827]: (solutions/Leetcode_827/)
+[841]: (solutions/leetcode_841.py)
+[856]: (solutions/leetcode_856.py)
+[871]: (solutions/Leetcode_871/)
+[877]: (solutions/Leetcode_877/)
+[881]: (solutions/leetcode_881.py)
+[890]: (solutions/Leetcode_890/)
+[895]: (solutions/leetcode_895.py)
+[906]: (solutions/Leetcode_906/)
+[916]: (solutions/leetcode_916.py)
+[926]: (solutions/Leetcode_926/)
+[941]: (solutions/leetcode_941.py)
+[946]: (solutions/leetcode_946.py)
+[953]: (solutions/Leetcode_953/)
+[954]: (solutions/Leetcode_954/)
+[966]: (solutions/leetcode_966.py)
+[968]: (solutions/Leetcode_968/)
+[970]: (solutions/Leetcode_970/)
+[971]: (solutions/leetcode_971.py)
+[977]: (solutions/leetcode_977.py)
+[980]: (solutions/leetcode_980.py)
+[983]: (solutions/leetcode_983.py)
+[991]: (solutions/leetcode_991.py)
+[994]: (solutions/leetcode_994.py)
+[1022]: (solutions/leetcode_1022.py)
+[1047]: (solutions/Leetcode_1047/)
+[1048]: (solutions/Leetcode_1048/)
+[1206]: (solutions/leetcode_1206.py)
+[1249]: (solutions/leetcode_1249.py)
+[1302]: (solutions/Leetcode_1302/)
+[1354]: (solutions/Leetcode_1354/)
+[1423]: (solutions/Leetcode_1423/)
+[1457]: (solutions/leetcode_1457.py)
+[1539]: (solutions/leetcode_1539.py)
+[1641]: (solutions/leetcode_1641.py)
+[1642]: (solutions/Leetcode_1642/)
+[1657]: (solutions/leetcode_1657.py)
+[1658]: (solutions/leetcode_1658.py)
+[1663]: (solutions/leetcode_1663.py)
+[1679]: (solutions/leetcode_1679.py)
+[1680]: (solutions/leetcode_1680.py)
+[1689]: (solutions/Leetcode_1689/)
+[1690]: (solutions/Leetcode_1690/)
+[1695]: (solutions/Leetcode_1695/)
+[1696]: (solutions/Leetcode_1696/)
+[1710]: (solutions/Leetcode_1710/)
+[1721]: (solutions/leetcode_1721.py)
