@@ -130,8 +130,8 @@ optimized and gentle solutions.
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [32] | [63] | [91] | [97] | [120] | [121] | [132] | [152] | [198] | [304] |
-| [322] | [376] | [377] | [413] | [583] | [647] | [714] | [746] | [795] | [821] |
-| [871] | [877] | [926] | [983] | [1048] | [1423] | [1641] | [1690] | [1696] |
+| [322] | [376] | [377] | [413] | | [546] | [583] | [647] | [714] | [746] | [795] |
+| [821] | [871] | [877] | [926] | [983] | [1048] | [1423] | [1641] | [1690] | [1696] |
 
 ### Greedy
 
@@ -328,7 +328,7 @@ optimized and gentle solutions.
 [88]: (solutions/leetcode_88.py)
 [89]: (solutions/Leetcode_89.py)
 [90]: (solutions/Leetcode_90/)
-[91]: (solutions/leetcode_91.py)
+[91]: (solutions/leetcode_91/)
 [97]: (solutions/Leetcode_97/)
 [102]: (solutions/Leetcode_102/)
 [105]: (solutions/Leetcode_105/)
@@ -372,6 +372,7 @@ optimized and gentle solutions.
 [535]: (solutions/leetcode_535.py)
 [538]: (solutions/leetcode_538.py)
 [542]: (solutions/Leetcode_542/)
+[546]: (solutions/Leetcode_546/)
 [547]: (solutions/leetcode_547.py)
 [554]: (solutions/Leetcode/)
 [583]: (solutions/Leetcode_583.py/)
