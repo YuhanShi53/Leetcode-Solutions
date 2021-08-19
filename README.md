@@ -117,7 +117,7 @@ optimized and gentle solutions.
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [17] | [22] | [90] | [97] | [108] | [216] | [322] | [473] | [538] | [623] |
-| [695] | [827] | [841] | [968] | [971] | [980] | [1206] | [1448] | [1457] |
+| [695] | [827] | [841] | [968] | [971] | [980] | [1206] | [1339] | [1448] | [1457] |
 
 ### Divide and Conquer
 
@@ -427,6 +427,7 @@ optimized and gentle solutions.
 [1206]: (solutions/leetcode_1206.py)
 [1249]: (solutions/leetcode_1249.py)
 [1302]: (solutions/Leetcode_1302/)
+[1339]: (solutions/Leetcode_1339/)
 [1354]: (solutions/Leetcode_1354/)
 [1423]: (solutions/Leetcode_1423/)
 [1448]: (solutions/Leetcode_1448/)
