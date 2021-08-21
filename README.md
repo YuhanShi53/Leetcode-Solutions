@@ -1,71 +1,14 @@
-# Leetcode
+# Leetcode Solutions
 
 This repository records my solutions and other reference solutions copied from Leetcode discussion.
 
-My own solutions are marked with 'MINE' in the docsting of the solution class,
+My own solutions have the class name `SolutionMINE`,
 which are only used to record my own analysis and solutions. Better solution are
 also appended under my own solutions, but are not promised to be the
 optimizations. Please head to Leetcode discussion if you are looking for
 optimized and gentle solutions.
 
-*The repository is on-working to contain solution written in C++ and Java. Solutions written in different language will separated to folders w.r.t Leetcode id.*
-
-## Unsolved
-
-- contest_leetcode_5211
-- leetcode_70 (2020.07.31)
-- leetcode_123 (2020.08.18)
-- leetcode_165 (2020.09.11)
-- leetcode_229 (2020.09.24)
-- Leetcode 126
-
-## Wait for Noted
-
-- leetcode_309
-- leetcode_1208
-- leetcode_274
-- leetcode_994
-- leetcode_983
-- leetcode_470
-- leetcode_220
-- leetcode_763
-- leetcode_152
-- leetcode_980
-- leetcode_134
-- leetcode_139
-- leetcode_147
-- leetcode_41
-- leetcode_56
-
-## Wait for Improvement
-
-- leetcode_211
-- leetcode_1094
-- leetcode_435
-- leetcode_987
-- leetcode_437
-- leetcode_179
-- leetcode_1286
-- leetcode_409
-- leetcode_1103
-- leetcode_824
-- leetcode_967
-- leetcode_404
-- leetcode_143
-- leetcode_450
-- leetcode_949
-- leetcode_459
-- leetcode_1305
-- leetcode_835
-- leetcode_290
-- leetccode_1022
-- leetcode_299
-- leetcode_421
-- leetcode_1041
-- leetcode_1291
-- leetcode_189
-- leetcode 310
-- Leetcode 827
+*The repository is on-working to contain solution written in C++ and Java. Solutions written in different languages are gathered into the same folders named after Leetcode_${ID}.*
 
 ## Category
 
@@ -296,14 +239,71 @@ optimized and gentle solutions.
 
 ## Note
 
-- `MINE` mark the self-implement solution.
-- `SPECIFIC` mark the solution which is specific to the problem and may not be generalized to other problems.
+- `SolutionMINE` marks the self-implement solution.
+- `SPECIFIC` tag means the solution which is specific to the problem and may not be generalized to other problems.
 - Unmerged branch indicate the problems to be solved or optimized.
 
 ## README Template
 
 | Solution ID | Tag | Time | Memory | Note |
 | ----------- | --- | ---- | ------ | ---- |
+
+## Unsolved
+
+- contest_leetcode_5211
+- leetcode_70 (2020.07.31)
+- leetcode_123 (2020.08.18)
+- leetcode_165 (2020.09.11)
+- leetcode_229 (2020.09.24)
+- Leetcode 126
+
+## Wait for Noted
+
+- leetcode_309
+- leetcode_1208
+- leetcode_274
+- leetcode_994
+- leetcode_983
+- leetcode_470
+- leetcode_220
+- leetcode_763
+- leetcode_152
+- leetcode_980
+- leetcode_134
+- leetcode_139
+- leetcode_147
+- leetcode_41
+- leetcode_56
+
+## Wait for Improvement
+
+- leetcode_211
+- leetcode_1094
+- leetcode_435
+- leetcode_987
+- leetcode_437
+- leetcode_179
+- leetcode_1286
+- leetcode_409
+- leetcode_1103
+- leetcode_824
+- leetcode_967
+- leetcode_404
+- leetcode_143
+- leetcode_450
+- leetcode_949
+- leetcode_459
+- leetcode_1305
+- leetcode_835
+- leetcode_290
+- leetccode_1022
+- leetcode_299
+- leetcode_421
+- leetcode_1041
+- leetcode_1291
+- leetcode_189
+- leetcode 310
+- Leetcode 827
 
 <!---Links--->
 [1]: (solutions/Leetcode_1/)
