@@ -59,6 +59,34 @@ class NumArray1:
         return sum_range_util(self._root, left, right)
 
 
+class NumArray2:
+    def __init__(self, nums: List[int]) -> None:
+        self._nums = [0] * len(nums)
+        self._length = len(nums) + 1
+        self._bit_tree = [0] * self._length
+        for i, x in enumerate(nums):
+            self.update(i, x)
+
+    def update(self, index: int, val: int) -> None:
+        diff = val - self._nums[index]
+        self._nums[index] = val
+        index += 1
+        while (index < self._length):
+            self._bit_tree[index] += diff
+            index += index & (-index)
+
+    def sumRange(self, left: int, right: int) -> int:
+        return self._sum_to(right) - self._sum_to(left-1)
+
+    def _sum_to(self, index) -> int:
+        total = 0
+        index += 1
+        while (index > 0):
+            total += self._bit_tree[index]
+            index -= index & (-index)
+        return total
+
+
 class NumArrayMINE:
     def __init__(self, nums: List[int]) -> None:
         self._sums = list(accumulate(nums))

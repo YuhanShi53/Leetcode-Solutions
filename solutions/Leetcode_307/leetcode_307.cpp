@@ -75,3 +75,51 @@ private:
             return sum_util(node->left, start, mid) + sum_util(node->right, mid + 1, end);
     }
 };
+
+
+class NumArray2
+{
+public:
+    NumArray2(std::vector<int>& nums)
+    {
+        _nums = std::vector<int>(nums.size(), 0);
+        _bitTree = std::vector<int>(nums.size() + 1, 0);
+        _treeLength = nums.size() + 1;
+        for (int i = 0; i < nums.size(); i++)
+            update(i, nums[i]);
+    }
+
+    void update(int index, int val)
+    {
+        int diff = val - _nums[index];
+        _nums[index] = val;
+        index++;
+        while (index < _treeLength)
+        {
+            _bitTree[index] += diff;
+            index += index & (-index);
+        }
+    }
+
+    int sumRange(int left, int right)
+    {
+        return _sumTo(right) - _sumTo(left-1);
+    }
+
+private:
+    int _sumTo(int index)
+    {
+        int total = 0;
+        index++;
+        while (index > 0)
+        {
+            total += _bitTree[index];
+            index -= index & (-index);
+        }
+        return total;
+    }
+
+    std::vector<int> _nums;
+    std::vector<int> _bitTree;
+    int _treeLength;
+};
