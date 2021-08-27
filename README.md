@@ -227,8 +227,8 @@ optimized and gentle solutions.
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [105] | [108] | [173] | [235] | [538] | [589] | [623] | [637] | [814] | [971] |
-| [1022] | [1302] | [1448] | [1457] |
+| [105] | [108] | [173] | [235] | [331] | [538] | [589] | [623] | [637] | [814] |
+| [971] | [1022] | [1302] | [1448] | [1457] |
 
 ### Trie
 
@@ -368,6 +368,7 @@ optimized and gentle solutions.
 [318]: (solutions/Leetcode_318/)
 [322]: (solutions/leetcode_322.py)
 [326]: (solutions/Leetcode_326/)
+[331]: (solutions/Leetcode_331/)
 [376]: (solutions/leetcode_376.py)
 [377]: (solutions/Leetcode_377/)
 [389]: (solutions/leetcode_389.py)
