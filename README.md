@@ -35,7 +35,7 @@ optimized and gentle solutions.
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [538] | [653] |
+| [95] | [538] | [653] |
 
 ### Bit-Manipulation
 
@@ -66,7 +66,7 @@ optimized and gentle solutions.
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [34] |
+| [34] | [95] |
 
 ### Dynamic Processing
 
@@ -338,6 +338,7 @@ optimized and gentle solutions.
 [89]: (solutions/Leetcode_89.py)
 [90]: (solutions/Leetcode_90/)
 [91]: (solutions/leetcode_91/)
+[95]: (solutions/Leetcode_95/)
 [97]: (solutions/Leetcode_97/)
 [102]: (solutions/Leetcode_102/)
 [105]: (solutions/Leetcode_105/)
