@@ -448,6 +448,7 @@ optimized and gentle solutions.
 [1448]: (solutions/Leetcode_1448/)
 [1457]: (solutions/leetcode_1457.py)
 [1539]: (solutions/leetcode_1539.py)
+[1629]: (solutions/Leetcode_1629/)
 [1641]: (solutions/leetcode_1641.py)
 [1642]: (solutions/Leetcode_1642/)
 [1657]: (solutions/leetcode_1657.py)
