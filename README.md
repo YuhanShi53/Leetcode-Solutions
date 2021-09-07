@@ -125,7 +125,7 @@ optimized and gentle solutions.
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [21] | [82] | [83] | [86] | [141] | [160] | [234] | [1721] |
+| [21] | [82] | [83] | [86] | [141] | [160] | [206] | [234] | [1721] |
 
 ### Math
 
@@ -358,6 +358,7 @@ optimized and gentle solutions.
 [173]: (solutions/leetcode_173.py)
 [191]: (solutions/leetcode_191.py)
 [198]: (solutions/leetcode_198.py)
+[206]: (solutions/Leetcode_206/)
 [216]: (solutions/leetcode_216.py)
 [234]: (solutions/leetcode_234.py)
 [235]: (solutions/Leetcode_235/)
