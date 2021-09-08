@@ -413,6 +413,7 @@ optimized and gentle solutions.
 [821]: (solutions/leetcode_821.py)
 [827]: (solutions/Leetcode_827/)
 [841]: (solutions/leetcode_841.py)
+[848]: (solutions/Leetcode_848/)
 [850]: (solutions/Leetcode_850/)
 [856]: (solutions/leetcode_856.py)
 [871]: (solutions/Leetcode_871/)
