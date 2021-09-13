@@ -89,7 +89,7 @@ optimized and gentle solutions.
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [1] | [13] | [36] | [76] | [105] | [128] | [318] | [389] | [554] | [594] |
 | [653] | [677] | [706] | [827] | [850] | [895] | [916] | [953] | [954] | [966] |
-| [970] | [1048] | [1657] | [1679] | [1695] |
+| [970] | [1048] | [1189] | [1657] | [1679] | [1695] |
 
 ### Heap
 
@@ -440,6 +440,7 @@ optimized and gentle solutions.
 [1022]: (solutions/leetcode_1022.py)
 [1047]: (solutions/Leetcode_1047/)
 [1048]: (solutions/Leetcode_1048/)
+[1189]: (solutions/Leetcode_1189/)
 [1206]: (solutions/leetcode_1206.py)
 [1235]: (solutions/Leetcode_1235/)
 [1249]: (solutions/leetcode_1249.py)
