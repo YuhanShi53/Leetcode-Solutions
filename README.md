@@ -264,6 +264,7 @@ optimized and gentle solutions.
 - leetcode_165 (2020.09.11)
 - leetcode_229 (2020.09.24)
 - Leetcode 126
+- Leetcode 978 (2022.02.25)
 
 ## Wait for Noted
 
